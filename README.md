@@ -1,6 +1,6 @@
 # north-japan-trip
 
-Planning repo for a winter trip to northern Japan — **30 January to 13 February 2026**, seven
+Planning repo for a winter trip to northern Japan — **30 January to 13 February 2027**, seven
 of us. It exists so that everyone's suggestions land in one place instead of scattering across
 chat threads.
 

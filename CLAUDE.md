@@ -1,6 +1,6 @@
 # north-japan-trip — conventions
 
-Winter Japan trip, **30 Jan – 13 Feb 2026**, 7 travellers.
+Winter Japan trip, **30 Jan – 13 Feb 2027**, 7 travellers.
 
 `locations.geojson` is the single source of truth for places. `index.html` renders it as a
 Leaflet map. **Never hardcode a place into the HTML** — the map reads the GeoJSON at runtime,
