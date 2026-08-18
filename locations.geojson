@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [141.1332007, 39.7005144] },
+      "properties": {
+        "id": "morioka-round1-stadium",
+        "name": "Round1 Stadium Morioka",
+        "name_ja": "ラウンドワンスタジアム 盛岡店",
+        "category": "Round1",
+        "city": "Morioka",
+        "cost": "TBC — Spocha free-play priced by time block",
+        "access": "~5 min walk west of Morioka Station (盛岡駅西通)",
+        "booking": "Not required — walk in",
+        "stars": 0,
+        "dates": "",
+        "notes": "Spocha, bowling, arcade, giga crane games. Listed as 24h, no closing days — reconfirm nearer the date. Good rainy/late-night fallback for a group of 7.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [139.0608533, 37.9110376] },
+      "properties": {
+        "id": "niigata-ponshukan",
+        "name": "Ponshukan Niigata Station",
+        "name_ja": "ぽんしゅ館 新潟駅店",
+        "category": "Food & drink",
+        "city": "Niigata",
+        "cost": "TBC — token-based sake tasting, buy tokens at the counter",
+        "access": "Inside CoCoLo Niigata, Niigata Station west connecting passage",
+        "booking": "Not required — walk in",
+        "stars": 1,
+        "dates": "",
+        "notes": "Sake tasting wall with ~100 Niigata breweries, self-serve by token. NOTE: there is a second Ponshukan at Echigo-Yuzawa Station — this feature is the Niigata Station one.",
+        "added": "2026-08-19"
+      }
+    }
+  ]
+}
