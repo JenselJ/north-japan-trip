@@ -6,6 +6,29 @@ Winter Japan trip, **30 Jan – 13 Feb 2026**, 7 travellers.
 Leaflet map. **Never hardcode a place into the HTML** — the map reads the GeoJSON at runtime,
 so adding a place means editing only `locations.geojson`.
 
+## What must never be committed
+
+**This repo is public and world-readable, deliberately so.** Anyone can read every file and
+every past commit, so treat all content here as published.
+
+Never commit:
+
+- **Booking or reservation confirmation numbers** — hotel, ryokan, flight PNRs, rail passes,
+  tour bookings, car hire.
+- **Personal phone numbers** — anyone's, traveller or contact.
+
+Fine to commit: hotel and venue names, street addresses, opening hours, prices, and the
+dates we plan to be somewhere. Those are all public information already.
+
+If real reservation details genuinely need to live in the repo, they go in
+**`bookings.private.md`**, which is gitignored and must stay that way. Never `git add -f` it,
+and never move its contents into a tracked file.
+
+Note that git history is permanent: a confirmation number committed and then deleted in a
+later commit is still readable in the repo's history. If something sensitive does get
+committed, say so rather than quietly deleting it — it needs the history rewritten and the
+booking treated as compromised.
+
 ## File roles
 
 | File | Role |
