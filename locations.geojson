@@ -3,7 +3,157 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [141.1332007, 39.7005144] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9137587,
+          37.3669586
+        ]
+      },
+      "properties": {
+        "id": "aizu-wakamatsu-okawaso",
+        "name": "Ōkawasō",
+        "name_ja": "大川荘 (会津芦ノ牧温泉)",
+        "category": "Onsen & sentō",
+        "city": "Aizu-Wakamatsu",
+        "cost": "Day-use ~¥1,500+ (confirm current rate)",
+        "access": "~25 min S of Aizu-Wakamatsu; ~2 min from Ashinomaki-Onsen Stn. Business line +81 242-92-2111",
+        "booking": "Call ahead to confirm Feb 2 day-use hours + tattoo policy",
+        "stars": 1,
+        "dates": "",
+        "notes": "Multi-storey wooden atrium — real-life Demon Slayer \"Infinity Castle.\" Terraced valley-view rotenburo; shamisen in the lobby ~2 hr.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9297661,
+          37.4877353
+        ]
+      },
+      "properties": {
+        "id": "aizu-wakamatsu-tsuruga-castle",
+        "name": "Tsuruga Castle (Tsurugajō)",
+        "name_ja": "鶴ヶ城",
+        "category": "Unique / rare",
+        "city": "Aizu-Wakamatsu",
+        "cost": "Grounds free; keep entry ~¥410",
+        "access": "In Aizu-Wakamatsu, short hop off the Ban-etsu line",
+        "booking": "Walk-in",
+        "stars": 1,
+        "dates": "",
+        "notes": "Japan's only red-tiled keep, striking under snow. Samurai-anime backdrop (Touken Ranbu, Hakuōki). Pairs with Sazaedō + katsudon lunch.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9322392,
+          37.3955469
+        ]
+      },
+      "properties": {
+        "id": "aizu-wakamatsu-ashinomaki-onsen-station",
+        "name": "Ashinomaki-Onsen Station cat stationmaster",
+        "name_ja": "芦ノ牧温泉駅",
+        "category": "Unique / rare",
+        "city": "Aizu-Wakamatsu",
+        "cost": "Free",
+        "access": "~2 min from Ōkawasō",
+        "booking": "None",
+        "stars": 0,
+        "dates": "",
+        "notes": "Aizu Railway station with a feline \"stationmaster.\" Quirky free ~10-min stop, clusters with Ōkawasō.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.719269,
+          41.824326
+        ]
+      },
+      "properties": {
+        "id": "hakodate-round1-stadium",
+        "name": "Round1 Stadium Hakodate",
+        "name_ja": "ラウンドワンスタジアム 函館店",
+        "category": "Round1",
+        "city": "Hakodate",
+        "cost": "Spo-Cha priced by time block",
+        "access": "~10 min from Hokuto-Oiwake IC — out of town, use van",
+        "booking": "Walk-in; phone ahead for bowling lanes",
+        "stars": 1,
+        "dates": "",
+        "notes": "Southern Hokkaido's largest — 38 lanes, karaoke, Spo-Cha with go-karts/mini-bikes. Open 10:00–0:00 (24 hr Fri/Sat/holiday-eve). Fits Feb 7–8. Coords from GSI for the official lot 西桔梗町848-11; not present in OpenStreetMap.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1460855,
+          37.4983353
+        ]
+      },
+      "properties": {
+        "id": "inawashiro-lake-swans",
+        "name": "Lake Inawashiro swans",
+        "name_ja": "猪苗代湖の白鳥",
+        "category": "Unique / rare",
+        "city": "Inawashiro",
+        "cost": "Free",
+        "access": "Roadside on the Ban-etsu corridor",
+        "booking": "None",
+        "stars": 0,
+        "dates": "",
+        "notes": "Migratory whooper swans wintering against Mt. Bandai — 20-min photo stop basically on the expressway. Sora no Manimani model location. Pinned to Shidahama (志田浜), the usual viewing beach, not the lake centroid.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8734745,
+          37.6510611
+        ]
+      },
+      "properties": {
+        "id": "kitakata-bannai-shokudo",
+        "name": "Bannai Shokudō (Kitakata ramen)",
+        "name_ja": "坂内食堂",
+        "category": "Food & drink",
+        "city": "Kitakata",
+        "cost": "~¥900–1,300",
+        "access": "~20 min N of Aizu-Wakamatsu, off the Ban-etsu line",
+        "booking": "Walk-in; 7-top may queue — go before 11:00",
+        "stars": 1,
+        "dates": "",
+        "notes": "One of Japan's big-3 ramen towns; light shoyu, thick flat noodles, morning-ramen culture. Chāshū-piled niku-soba icon. Feb 2 drive stop.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1332007,
+          39.7005144
+        ]
+      },
       "properties": {
         "id": "morioka-round1-stadium",
         "name": "Round1 Stadium Morioka",
@@ -21,7 +171,61 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.0608533, 37.9110376] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.0531746,
+          37.916071
+        ]
+      },
+      "properties": {
+        "id": "niigata-manga-anime-center",
+        "name": "Niigata City Manga & Anime Information Center",
+        "name_ja": "新潟市マンガ・アニメ情報館",
+        "category": "Anime",
+        "city": "Niigata",
+        "cost": "Free",
+        "access": "Bandai City, near Niigata Stn",
+        "booking": "Walk-in",
+        "stars": 1,
+        "dates": "",
+        "notes": "Permanent exhibits on Rumiko Takahashi & Fujio Akatsuka + rotating shows. NOT Gundam-focused.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.0627304,
+          37.9116302
+        ]
+      },
+      "properties": {
+        "id": "niigata-pageant-of-lights",
+        "name": "NIIGATA Pageant of Lights",
+        "name_ja": "光のページェント",
+        "category": "Festivals & events",
+        "city": "Niigata",
+        "cost": "Free",
+        "access": "Station South Exit & Keyaki-dori, 5 min from station",
+        "booking": "None",
+        "stars": 1,
+        "dates": "Ends Jan 31 annually — arrival night only (confirm season dates)",
+        "notes": "~200 trees, 160,000 bulbs. Lit 17:00–24:10. Area pin anchored on the station south exit.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.0608533,
+          37.9110376
+        ]
+      },
       "properties": {
         "id": "niigata-ponshukan",
         "name": "Ponshukan Niigata Station",
@@ -34,6 +238,342 @@
         "stars": 1,
         "dates": "",
         "notes": "Sake tasting wall with ~100 Niigata breweries, self-serve by token. NOTE: there is a second Ponshukan at Echigo-Yuzawa Station — this feature is the Niigata Station one.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.0611846,
+          37.9230855
+        ]
+      },
+      "properties": {
+        "id": "niigata-pia-bandai",
+        "name": "Pia Bandai / Minato Marché",
+        "name_ja": "ピアBandai",
+        "category": "Food & drink",
+        "city": "Niigata",
+        "cost": "Pay per item",
+        "access": "~¥210 bus from Niigata Stn, near the port",
+        "booking": "Market walk-in; call ahead for big sit-down tables",
+        "stars": 1,
+        "dates": "",
+        "notes": "Sea-of-Japan seafood market (winter = nodoguro, snow crab, buri). On-site restaurants + conveyor sushi. Good Feb 1 lunch or Feb 2 breakfast.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.0453584,
+          37.9217318
+        ]
+      },
+      "properties": {
+        "id": "niigata-furumachi",
+        "name": "Furumachi izakaya district",
+        "name_ja": "古町",
+        "category": "Food & drink",
+        "city": "Niigata",
+        "cost": "~¥4,000–6,000pp w/ drinks",
+        "access": "Central Niigata, Furumachi",
+        "booking": "Reserve a 7-top ahead",
+        "stars": 1,
+        "dates": "",
+        "notes": "Old dining-and-geisha quarter, best seafood-and-sake spots. Core group food+drink evening (Feb 1). Area pin — pick a specific izakaya later. Anchored on the 古町 crossing at 柾谷小路, not a single venue.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.0439748,
+          37.920636
+        ]
+      },
+      "properties": {
+        "id": "niigata-tonkatsu-taro",
+        "name": "Tonkatsu Taro",
+        "name_ja": "とんかつ太郎",
+        "category": "Food & drink",
+        "city": "Niigata",
+        "cost": "~¥1,000–1,500",
+        "access": "Furumachi",
+        "booking": "Walk-in; small & queue-prone — go early or split into 2 tables",
+        "stars": 0,
+        "dates": "",
+        "notes": "Birthplace of tarekatsudon (thin cutlets in sweet soy-dashi tare). Niigata signature dish.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.0432594,
+          37.9208347
+        ]
+      },
+      "properties": {
+        "id": "niigata-sankichiya",
+        "name": "Sankichiya",
+        "name_ja": "三吉屋",
+        "category": "Food & drink",
+        "city": "Niigata",
+        "cost": "~¥900–1,200",
+        "access": "Central Niigata",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "Classic light Niigata assari-shoyu ramen — one of the prefecture's 5 signature styles.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.059311,
+          37.914238
+        ]
+      },
+      "properties": {
+        "id": "niigata-suzakaya",
+        "name": "Suzakaya",
+        "name_ja": "須坂屋そば",
+        "category": "Food & drink",
+        "city": "Niigata",
+        "cost": "Evening set w/ sake, noppe & sashimi ~¥2,200",
+        "access": "4 min from Niigata Stn",
+        "booking": "Call ahead for a 7-top",
+        "stars": 0,
+        "dates": "",
+        "notes": "Hegi soba — funori-seaweed soba in bundles on a wooden tray. Divisive texture = fun group order. Pinned to the 新潟駅前店 branch (弁天1-4-29).",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.0558964,
+          37.9166399
+        ]
+      },
+      "properties": {
+        "id": "niigata-mikazuki",
+        "name": "Mikazuki",
+        "name_ja": "みかづき",
+        "category": "Food & drink",
+        "city": "Niigata",
+        "cost": "~¥400",
+        "access": "Bandai",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "Niigata \"Italian\" — thick chow-mein noodles under tomato meat sauce. Weird, cheap, fast. Pinned to the 万代シテイ branch; it is a local chain.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.0521705,
+          37.9360476
+        ]
+      },
+      "properties": {
+        "id": "niigata-sekitori",
+        "name": "Sekitori",
+        "name_ja": "せきとり",
+        "category": "Food & drink",
+        "city": "Niigata",
+        "cost": "Izakaya prices",
+        "access": "Central Niigata",
+        "booking": "Call ahead for a 7-top",
+        "stars": 0,
+        "dates": "",
+        "notes": "Hanmi-age — deep-fried half-chicken with curry powder + salt. Great beer food to share. Pinned to 本店 (横七番町通); there are also 古町, 女池 and 青山 branches.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.0458776,
+          37.9252877
+        ]
+      },
+      "properties": {
+        "id": "niigata-inakaya",
+        "name": "Inakaya",
+        "name_ja": "田舎家",
+        "category": "Food & drink",
+        "city": "Niigata",
+        "cost": "~¥1,000–2,000",
+        "access": "Furumachi",
+        "booking": "Walk-in; call ahead for 7",
+        "stars": 0,
+        "dates": "",
+        "notes": "Originating shop for wappa-meshi (rice steamed in a bent-cedar box with salmon/crab/roe).",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.018311,
+          37.888382
+        ]
+      },
+      "properties": {
+        "id": "niigata-round1-stadium",
+        "name": "Round1 Stadium Niigata",
+        "name_ja": "ラウンドワンスタジアム 新潟店",
+        "category": "Round1",
+        "city": "Niigata",
+        "cost": "Spo-Cha priced by time block",
+        "access": "Rte 116 near the Shinano River; free shuttle from Niigata Stn south exit",
+        "booking": "Walk-in; phone ahead for bowling",
+        "stars": 1,
+        "dates": "",
+        "notes": "Only R1 in the prefecture — Spo-Cha, bowling, karaoke, ~330 machines. Check Sun/Mon closing times. Fits Jan 31 / Feb 1.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1448378,
+          42.4951825
+        ]
+      },
+      "properties": {
+        "id": "noboribetsu-dai-ichi-takimotokan",
+        "name": "Dai-ichi Takimotokan",
+        "name_ja": "第一滝本館",
+        "category": "Onsen & sentō",
+        "city": "Noboribetsu",
+        "cost": "~¥2,250 day-use (confirm 2026 rate; evening discount promo ended Feb 2026)",
+        "access": "~15 min by car from JR Noboribetsu Stn; ~10 min from Noboribetsu-Higashi IC",
+        "booking": "Walk-in, no reservation; check tattoo policy",
+        "stars": 1,
+        "dates": "",
+        "notes": "35 tubs, 5–7 spring types, drinking-spring station, hot-water pool + slide. \"Department store of hot springs.\" Fits Feb 9 Noboribetsu day.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8767011,
+          38.353128
+        ]
+      },
+      "properties": {
+        "id": "sendai-spa-metsa",
+        "name": "Spa Metsä Sendai / Ryūsenji-no-Yu",
+        "name_ja": "スパメッツァ仙台 竜泉寺の湯",
+        "category": "Onsen & sentō",
+        "city": "Sendai",
+        "cost": "~¥600–1,000 entry",
+        "access": "~4.5 km from central Sendai, easy by van",
+        "booking": "Walk-in; check tattoo policy",
+        "stars": 1,
+        "dates": "",
+        "notes": "Best pure super sentō on the trip — standout sauna with aufguss/löyly shows. Fits Feb 2–3.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.878723,
+          38.351784
+        ]
+      },
+      "properties": {
+        "id": "sendai-round1-stadium-izumi",
+        "name": "Round1 Stadium Sendai-Izumi",
+        "name_ja": "ラウンドワンスタジアム 仙台泉店",
+        "category": "Round1",
+        "city": "Sendai",
+        "cost": "Spo-Cha priced by time block",
+        "access": "Sendai-Izumi Inter City (1F/2F); free shuttle from Izumi-Chūō Stn",
+        "booking": "Walk-in; phone ahead for bowling",
+        "stars": 0,
+        "dates": "",
+        "notes": "Opened Dec 2025 — Miyagi's first Spo-Cha. Go here, NOT the Nigatake branch (no Spo-Cha). Fits Feb 2–3. Official address is 仙台市泉区大沢2-12-4, but the site sits on the Sendai/Tomiya boundary and OpenStreetMap tags it 富谷市 — city here follows the operator's registered address.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8606616,
+          37.3336291
+        ]
+      },
+      "properties": {
+        "id": "shimogo-ouchi-juku",
+        "name": "Ōuchi-juku",
+        "name_ja": "大内宿",
+        "category": "Unique / rare",
+        "city": "Shimogo",
+        "cost": "Free to wander; food ~¥1,000–1,500",
+        "access": "Deep S of the Ban-etsu line on snow-sensitive mountain roads",
+        "booking": "Walk-in",
+        "stars": 1,
+        "dates": "",
+        "notes": "Thatched-roof Edo post town buried in snow; signature negi-soba (leek-as-chopstick). Most atmospheric stop on the leg but far south — do this OR the Ashinomaki cluster.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.5303001,
+          38.040804
+        ]
+      },
+      "properties": {
+        "id": "shiroishi-zao-fox-village",
+        "name": "Zaō Fox Village",
+        "name_ja": "蔵王キツネ村",
+        "category": "Unique / rare",
+        "city": "Shiroishi",
+        "cost": "~¥1,000",
+        "access": "Off the Tōhoku Expwy at Shiroishi, ~40 min before Sendai — use the van",
+        "booking": "Walk-in, fine for 7",
+        "stars": 1,
+        "dates": "",
+        "notes": "Dozens of free-roaming foxes in deep snow (peak thick-coat season). Last big \"rare\" hit before Sendai on Feb 2.",
         "added": "2026-08-19"
       }
     }
