@@ -150,6 +150,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          141.057587,
+          38.367977
+        ]
+      },
+      "properties": {
+        "id": "matsushima-oyster-sake-festival",
+        "name": "Matsushima Oyster × Warm-Sake Festival",
+        "name_ja": "松島 牡蠣×燗酒フェスティバル",
+        "category": "Festivals & events",
+        "city": "Matsushima",
+        "cost": "Free entry; oyster dishes pay-per; sake ¥300/glass",
+        "access": "Matsushima Rikyū, 1 min from Matsushima-Kaigan Stn; ~30 min E of Sendai by van",
+        "booking": "Walk-in",
+        "stars": 1,
+        "dates": "2026 ran from ~Feb 1 into March — confirm your-year dates",
+        "notes": "10+ oyster dishes + ~20 Miyagi sakes at Matsushima Rikyū. Long run = reliably on your dates, unlike the one-day Kaki Matsuri (first Sun of Feb).",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.0589956,
+          38.3678491
+        ]
+      },
+      "properties": {
+        "id": "matsushima-bay",
+        "name": "Matsushima Bay",
+        "name_ja": "松島",
+        "category": "Unique / rare",
+        "city": "Matsushima",
+        "cost": "Cruise ~¥1,500; Zuiganji ~¥700; Godaidō free",
+        "access": "~30 min E of Sendai by van; JR Senseki Line to Matsushima-Kaigan",
+        "booking": "Cruise walk-in; kakigoya hut — book ahead for 7",
+        "stars": 1,
+        "dates": "",
+        "notes": "One of Japan's \"three great views.\" Peak winter oyster season — kakigoya grill-your-own huts. Pairs with Shiogama sushi. Anchor near the Matsushima-Kaigan waterfront.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           141.1332007,
           39.7005144
         ]
@@ -166,6 +214,30 @@
         "stars": 0,
         "dates": "",
         "notes": "Spocha, bowling, arcade, giga crane games. Listed as 24h, no closing days — reconfirm nearer the date. Good rainy/late-night fallback for a group of 7.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.716093,
+          38.743466
+        ]
+      },
+      "properties": {
+        "id": "naruko-onsen",
+        "name": "Naruko Onsen & Naruko Gorge",
+        "name_ja": "鳴子温泉・鳴子峡",
+        "category": "Onsen & sentō",
+        "city": "Naruko",
+        "cost": "Day-use baths ~¥500+",
+        "access": "~1 hr N of Sendai by van; JR Rikuu-East Line to Naruko-Onsen",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "Characterful old onsen town + dramatic gorge (鳴子峡) + Naruko kokeshi. Quieter soak-and-eat half-day. Administratively Ōsaki City — reverse-geocode may show 大崎市. Anchor on Naruko-Onsen Station.",
         "added": "2026-08-19"
       }
     },
@@ -486,6 +558,246 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          140.5300687,
+          38.5704194
+        ]
+      },
+      "properties": {
+        "id": "obanazawa-ginzan-onsen",
+        "name": "Ginzan Onsen",
+        "name_ja": "銀山温泉",
+        "category": "Onsen & sentō",
+        "city": "Obanazawa",
+        "cost": "Ashiyu free; day-use baths vary; evening day-tripper shuttle ~¥1,150",
+        "access": "~2–2.5 hr N of Sendai by van — a stretch as a day trip",
+        "booking": "WINTER RESTRICTIONS (this season Dec 20–Mar 1): day cars park at Taishō Romankan + shuttle in; 5–8 pm slot capped 100/hr, reservation required; overnight-guests only after 8 pm",
+        "stars": 0,
+        "dates": "Winter access rules ~Dec 20 – Mar 1 — confirm your-year dates",
+        "notes": "Taishō-era gas-lamp onsen town, Spirited Away vibes in snow. Spectacular but far — better as an overnight than a day trip.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8800379,
+          38.2587608
+        ]
+      },
+      "properties": {
+        "id": "sendai-animate",
+        "name": "Animate Sendai",
+        "name_ja": "アニメイト仙台",
+        "category": "Anime",
+        "city": "Sendai",
+        "cost": "Free",
+        "access": "E-beans 7–8F, Sendai Stn west exit",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "Largest anime store in Tōhoku, animate Café inside. Sendai is Haikyuu!! country (author Haruichi Furudate is from Miyagi) — big Haikyuu wall.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8799031,
+          38.2587262
+        ]
+      },
+      "properties": {
+        "id": "sendai-otaku-cluster",
+        "name": "Otaku shop cluster — Gamers / Surugaya / Toranoana",
+        "name_ja": "ゲーマーズ / 駿河屋 / とらのあな",
+        "category": "Anime",
+        "city": "Sendai",
+        "cost": "Free",
+        "access": "Sendai Stn west-exit area (Clis Road / Chūō-dōri)",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "Walkable otaku circuit — Gamers, Surugaya (used figures/manga), Toranoana + Mandarake nearby. Area pin; anchor near Gamers Sendai, ~40 m from Animate.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.881943,
+          38.261703
+        ]
+      },
+      "properties": {
+        "id": "sendai-pokemon-center-tohoku",
+        "name": "Pokémon Center Tōhoku",
+        "name_ja": "ポケモンセンタートウホク",
+        "category": "Anime",
+        "city": "Sendai",
+        "cost": "Free",
+        "access": "Short walk from Sendai Stn",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "Tōhoku's Pokémon flagship. Address confirmed Aug 2026: Sendai PARCO 3F, 中央1-2-3 (moved there 2017; renovated Mar 2025 to ~4x the floor area).",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8698435,
+          38.2660008
+        ]
+      },
+      "properties": {
+        "id": "sendai-bright-lights-story",
+        "name": "SENDAI Bright Lights STORY",
+        "name_ja": "SENDAI Bright Lights STORY",
+        "category": "Festivals & events",
+        "city": "Sendai",
+        "cost": "Free to stroll",
+        "access": "Jōzenji-dōri, central Sendai (evenings)",
+        "booking": "None",
+        "stars": 1,
+        "dates": "1st edition ran Jan 19 – Feb 28, 2026 — confirm your-year dates & official name",
+        "notes": "New 4-zone street illumination, companion to the December Pageant of Starlight. On the Feb 2–3 window. Anchor on Jōzenji-dōri by the city hall, mid-way along the zelkova mall.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.870224,
+          38.264011
+        ]
+      },
+      "properties": {
+        "id": "sendai-aji-tasuke",
+        "name": "Aji Tasuke (gyūtan)",
+        "name_ja": "味太助",
+        "category": "Food & drink",
+        "city": "Sendai",
+        "cost": "~¥1,500–2,000 (tongue set w/ tail soup + barley rice)",
+        "access": "Kokubunchō, central Sendai; ~10 min from Sendai Stn",
+        "booking": "Walk-in; small & queues — go early or split into 2 tables",
+        "stars": 0,
+        "dates": "",
+        "notes": "Originator of Sendai gyūtan. For a 7-friendly sit-down, Rikyū (利久, many branches incl. the station) is the easy alternative; Date no Gyūtan also solid. Pinned to 本店 at 一番町4-4-13.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.881699,
+          38.260338
+        ]
+      },
+      "properties": {
+        "id": "sendai-zunda-saryo",
+        "name": "Zunda Saryō (zunda shake)",
+        "name_ja": "ずんだ茶寮",
+        "category": "Food & drink",
+        "city": "Sendai",
+        "cost": "Shake ~¥400",
+        "access": "Sendai Stn 3F, \"Zunda Kōji\"",
+        "booking": "Walk-in, self-serve",
+        "stars": 0,
+        "dates": "",
+        "notes": "Sweet edamame-paste shake + zunda mochi — the signature Sendai flavor. Fast group snack in the station. Pinned to the Sendai Station branch; an unbounded search lands on the airport branch in Natori.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8785106,
+          38.2586211
+        ]
+      },
+      "properties": {
+        "id": "sendai-asaichi",
+        "name": "Sendai Asaichi (morning market)",
+        "name_ja": "仙台朝市",
+        "category": "Food & drink",
+        "city": "Sendai",
+        "cost": "Pay per item, cheap",
+        "access": "~3 min west of Sendai Stn (Chūō 4-chōme)",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "\"Sendai's kitchen\" — covered lane of ~70 stalls; seafood, standing bars, kaisen-don, fresh crab.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8733854,
+          38.2586585
+        ]
+      },
+      "properties": {
+        "id": "sendai-iroha-yokocho",
+        "name": "Iroha Yokochō",
+        "name_ja": "いろは横丁",
+        "category": "Food & drink",
+        "city": "Sendai",
+        "cost": "Izakaya prices",
+        "access": "Kokubunchō, off the Chūō-dōri arcade",
+        "booking": "Counters tiny — spread across a few or reserve a larger izakaya",
+        "stars": 0,
+        "dates": "",
+        "notes": "Retro post-war izakaya alley for the group night out. Bunyoko (文化横丁) alley right next door.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.874954,
+          38.26099
+        ]
+      },
+      "properties": {
+        "id": "sendai-abe-kamaboko",
+        "name": "Abe Kamaboko (sasa-kamaboko)",
+        "name_ja": "阿部蒲鉾店 本店",
+        "category": "Food & drink",
+        "city": "Sendai",
+        "cost": "Hyōtan-age / sasa-kamaboko ~¥200–400",
+        "access": "Chūō-dōri arcade, central Sendai",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "Bamboo-leaf fish cake; grab the famous hyōtan-age (kamaboko \"corndog\") off the street counter. Pinned to 本店 (中央2-3-18); there are branches in Miyagino, Izumi and Matsushima.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           140.8767011,
           38.353128
         ]
@@ -534,6 +846,78 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          140.8236337,
+          38.300502
+        ]
+      },
+      "properties": {
+        "id": "sendai-daikannon",
+        "name": "Sendai Daikannon",
+        "name_ja": "仙台大観音",
+        "category": "Unique / rare",
+        "city": "Sendai",
+        "cost": "~¥500 to go up inside",
+        "access": "Izumi-ku, NW Sendai; ~20 min by van",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "~100 m white Kannon statue with an elevator up inside — gloriously strange, visible across the city.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.9804667,
+          38.2710628
+        ]
+      },
+      "properties": {
+        "id": "sendai-umino-mori-aquarium",
+        "name": "Sendai Umino-Mori Aquarium",
+        "name_ja": "仙台うみの杜水族館",
+        "category": "Unique / rare",
+        "city": "Sendai",
+        "cost": "~¥2,400",
+        "access": "Miyagino-ku, near the port; ~15 min by van",
+        "booking": "Walk-in; buy tickets online to skip queue",
+        "stars": 0,
+        "dates": "",
+        "notes": "Big modern aquarium — solid all-weather group stop.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.872583,
+          38.258751
+        ]
+      },
+      "properties": {
+        "id": "sendai-ichibancho-arcades",
+        "name": "Ichibanchō / Sunmall arcades",
+        "name_ja": "一番町・サンモール一番町",
+        "category": "Unique / rare",
+        "city": "Sendai",
+        "cost": "Free",
+        "access": "Central Sendai, between Aoba-dōri and Hirose-dōri",
+        "booking": "None",
+        "stars": 0,
+        "dates": "",
+        "notes": "One of Japan's longest covered arcade networks — all-weather browsing, gachapon, food. Area pin on the Ichibanchō arcade.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.8606616,
           37.3336291
         ]
@@ -558,6 +942,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          141.0228114,
+          38.3178146
+        ]
+      },
+      "properties": {
+        "id": "shiogama-sushi-shrine",
+        "name": "Shiogama sushi & Shiogama Shrine",
+        "name_ja": "塩竈 (寿司・鹽竈神社)",
+        "category": "Food & drink",
+        "city": "Shiogama",
+        "cost": "Sushi ~¥2,000–4,000pp",
+        "access": "~20 min E of Sendai by van; pairs with Matsushima; JR to Hon-Shiogama",
+        "booking": "Reserve a 7-top sushi counter",
+        "stars": 0,
+        "dates": "",
+        "notes": "Among Japan's highest sushi-shop density per capita; dramatic Shiogama Shrine (鹽竈神社) above town. Sushi here, oysters at Matsushima. Anchor near Hon-Shiogama Station.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           140.5303001,
           38.040804
         ]
@@ -574,6 +982,30 @@
         "stars": 1,
         "dates": "",
         "notes": "Dozens of free-roaming foxes in deep snow (peak thick-coat season). Last big \"rare\" hit before Sendai on Feb 2.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.4373997,
+          38.3125626
+        ]
+      },
+      "properties": {
+        "id": "yamagata-yamadera",
+        "name": "Yamadera (Risshaku-ji)",
+        "name_ja": "山寺 立石寺",
+        "category": "Unique / rare",
+        "city": "Yamagata",
+        "cost": "~¥300",
+        "access": "~1 hr W of Sendai by van; JR Senzan Line to Yamadera Stn",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "Cliff-face mountain temple, 1,000 stone steps, jaw-dropping under snow (Bashō's \"cicada silence\" haiku site). Steps get icy — good boots. Pair with Yamagata-city food.",
         "added": "2026-08-19"
       }
     }
