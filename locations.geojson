@@ -102,6 +102,198 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          141.117189,
+          39.3857748
+        ]
+      },
+      "properties": {
+        "id": "hanamaki-marukan-cafeteria",
+        "name": "Marukan Building Grand Cafeteria (chopstick soft-serve)",
+        "name_ja": "マルカンビル大食堂",
+        "category": "Food & drink",
+        "city": "Hanamaki",
+        "cost": "10-tier soft serve ~¥180; diner mains cheap",
+        "access": "~15 min walk from Hanamaki Stn, just off Route 4; 6F 上町6-2",
+        "booking": "Walk-in (560 seats)",
+        "stars": 1,
+        "dates": "Reportedly closed Wednesdays — confirm; ~11:00–18:30",
+        "notes": "Showa-retro cafeteria; 25 cm 10-tier soft serve eaten with chopsticks. Also a Miyazawa Kenji / Shohei Ohtani spot.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.104477,
+          39.002007
+        ]
+      },
+      "properties": {
+        "id": "hiraizumi-chusonji",
+        "name": "Chūson-ji (Konjikidō golden hall)",
+        "name_ja": "中尊寺 金色堂",
+        "category": "Unique / rare",
+        "city": "Hiraizumi",
+        "cost": "~¥1,000 (Konjikidō + treasure hall)",
+        "access": "~5 min from Hiraizumi-Maesawa IC; hillside temple",
+        "booking": "Walk-in",
+        "stars": 1,
+        "dates": "Winter hrs ~8:30–16:30",
+        "notes": "UNESCO World Heritage; gold-leaf golden hall under snow. Clusters with Mōtsū-ji + Takkoku no Iwaya.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.107056,
+          38.987255
+        ]
+      },
+      "properties": {
+        "id": "hiraizumi-motsuji",
+        "name": "Mōtsū-ji",
+        "name_ja": "毛越寺",
+        "category": "Unique / rare",
+        "city": "Hiraizumi",
+        "cost": "~¥700",
+        "access": "~7 min walk from Hiraizumi Stn; clusters with Chūson-ji",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "Heian-era Pure Land pond-garden — beautiful and near-empty snowed-in in Feb.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.13298,
+          38.931526
+        ]
+      },
+      "properties": {
+        "id": "ichinoseki-sekinoichi-shuzo",
+        "name": "Sekinoichi Shuzō (brewery + restaurant)",
+        "name_ja": "世嬉の一酒造",
+        "category": "Food & drink",
+        "city": "Ichinoseki",
+        "cost": "Tasting modest; on-site mochi-zen set under ~¥2,000",
+        "access": "~10 min from Ichinoseki Stn, 田村町5-42",
+        "booking": "Reserve 7-top / brewery tour ahead",
+        "stars": 0,
+        "dates": "",
+        "notes": "Working sake brewery with tour + tasting; the on-site Kuramoto Restaurant Sekinoichi serves ~20 seasonal Ichinoseki mochi dishes. Group food+drink hit.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.123077,
+          38.932037
+        ]
+      },
+      "properties": {
+        "id": "ichinoseki-karaage-bentenya",
+        "name": "Karaage Benten-ya (Ichinoseki karaage)",
+        "name_ja": "からあげべんてん屋",
+        "category": "Food & drink",
+        "city": "Ichinoseki",
+        "cost": "~¥130/pc, made to order",
+        "access": "Near Ichinoseki City Hall (一関市役所); small takeout with parking",
+        "booking": "Takeout, walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "Cheap made-to-order karaage — good shareable roadside grab. Alt: Oyama's 奥州いわいどりからあげ家 at 狐禅寺 for Murone-style karaage. Pinned to 寿町12-4 (~390 m from the city hall); listing sites disagree, also showing 大手町 and 山目 — worth confirming by phone.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.2554817,
+          38.9891382
+        ]
+      },
+      "properties": {
+        "id": "ichinoseki-geibikei-kotatsu-boat",
+        "name": "Geibikei Gorge kotatsu boat (winter)",
+        "name_ja": "猊鼻渓 舟下り（こたつ舟）",
+        "category": "Unique / rare",
+        "city": "Ichinoseki",
+        "cost": "~¥2,000pp boat; kinagashi-nabe hotpot extra (reservation only)",
+        "access": "~25 min by car from Ichinoseki IC; 5-min walk from Geibikei Stn. Geibi Tourist Center, 長坂字町467 Higashiyama",
+        "booking": "Boat = walk-in; reserve the 7-top kinagashi-nabe hotpot ahead",
+        "stars": 1,
+        "dates": "Kotatsu boats Dec 1–late Feb, winter departures ~9:30–15:00",
+        "notes": "Flat-bottom punt through 100m cliffs; heated covered kotatsu boats in winter. Suspends in bad weather — confirm the day. Feb 4 Sendai→Morioka leg. Pinned to the boat landing (舟着場); the tourist-centre address given sits ~330 m away.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.0471541,
+          38.9446085
+        ]
+      },
+      "properties": {
+        "id": "ichinoseki-genbikei-flying-dango",
+        "name": "Genbikei Gorge \"flying dango\" (Kakkō Dango)",
+        "name_ja": "厳美渓 郭公だんご",
+        "category": "Unique / rare",
+        "city": "Ichinoseki",
+        "cost": "Dango ~¥400/set",
+        "access": "~10 min from Ichinoseki IC, roadside at Genbikei gorge",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "CLOSED IN WINTER — Ichinoseki's official tourism site lists 冬季休業 12月〜3月上旬",
+        "notes": "Order dango via a basket that ziplines across the river. Quirky/cheap. NOT the same gorge as the Geibikei boat ride. WARNING: this is a seasonal closure, not a weather call — the shop is shut Dec through early March, so it will not be open during the trip. Gorge itself is still walkable. Verify against their Instagram before writing it into a day plan.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.0483971,
+          38.9449483
+        ]
+      },
+      "properties": {
+        "id": "ichinoseki-sahara-glass-park",
+        "name": "Sahara Glass Park",
+        "name_ja": "サハラガラスパーク",
+        "category": "Unique / rare",
+        "city": "Ichinoseki",
+        "cost": "Entry free; glassblowing experience ~¥1,600+",
+        "access": "Near Genbikei, ~10 min from Ichinoseki IC, 厳美町字滝ノ上380-1",
+        "booking": "Reserve glassblowing for 7 ahead",
+        "stars": 0,
+        "dates": "",
+        "notes": "Hands-on glassblowing/beadwork + shop and footbath. Good group activity near Genbikei — ~110 m from the flying-dango stand, so they pair naturally.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           140.1460855,
           37.4983353
         ]
@@ -184,12 +376,108 @@
         "name_ja": "松島",
         "category": "Unique / rare",
         "city": "Matsushima",
-        "cost": "Cruise ~¥1,500; Zuiganji ~¥700; Godaidō free",
+        "cost": "Kakigoya AYCE ~¥2,000–2,500/40min; Zuiganji ~¥700; cruise ~¥1,500",
         "access": "~30 min E of Sendai by van; JR Senseki Line to Matsushima-Kaigan",
         "booking": "Cruise walk-in; kakigoya hut — book ahead for 7",
         "stars": 1,
-        "dates": "",
+        "dates": "Winter = peak oyster season",
         "notes": "One of Japan's \"three great views.\" Peak winter oyster season — kakigoya grill-your-own huts. Pairs with Shiogama sushi. Anchor near the Matsushima-Kaigan waterfront.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.156464,
+          39.700523
+        ]
+      },
+      "properties": {
+        "id": "morioka-azumaya",
+        "name": "Azumaya (wanko soba)",
+        "name_ja": "東家 本店",
+        "category": "Food & drink",
+        "city": "Morioka",
+        "cost": "Wanko soba course ~¥3,300+",
+        "access": "Central Morioka, 中ノ橋通1-8-3",
+        "booking": "Reserve a 7-top ahead",
+        "stars": 1,
+        "dates": "",
+        "notes": "All-you-can-slurp wanko soba — big group event. One of Morioka's three great noodles.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.152237,
+          39.702259
+        ]
+      },
+      "properties": {
+        "id": "morioka-pairon",
+        "name": "Pairon (jajamen)",
+        "name_ja": "じゃじゃ麺 白龍（パイロン）本店",
+        "category": "Food & drink",
+        "city": "Morioka",
+        "cost": "~¥600–800",
+        "access": "Central Morioka near Morioka Castle / Sakurayama, 内丸5-15",
+        "booking": "Walk-in; small, may split",
+        "stars": 0,
+        "dates": "",
+        "notes": "Originator of Morioka jajamen (flat noodles + meat-miso, chītantan egg-soup finish). Cheap, unique. One of the three great noodles.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.137741,
+          39.70216
+        ]
+      },
+      "properties": {
+        "id": "morioka-pyonpyon-sha",
+        "name": "Pyonpyon-sha (Morioka reimen)",
+        "name_ja": "ぴょんぴょん舎",
+        "category": "Food & drink",
+        "city": "Morioka",
+        "cost": "Reimen ~¥1,000",
+        "access": "Near Morioka Stn (GINGA branch is group-friendly)",
+        "booking": "Reserve 7-top",
+        "stars": 0,
+        "dates": "",
+        "notes": "Morioka cold reimen — chewy noodles, spicy-cool broth, kimchi. Group/station-friendly. Shokudōen (食道園) is the original inventor. One of the three great noodles. Pinned to the GINGA branch at 盛岡駅前通9-5.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.141907,
+          39.70826
+        ]
+      },
+      "properties": {
+        "id": "morioka-fukuda-pan",
+        "name": "Fukuda Pan (koppepan)",
+        "name_ja": "福田パン 長田町本店",
+        "category": "Food & drink",
+        "city": "Morioka",
+        "cost": "~¥200–400 per roll",
+        "access": "長田町12-11, a bit N of Morioka Stn — by van",
+        "booking": "Walk-in (queues); split big orders",
+        "stars": 0,
+        "dates": "",
+        "notes": "Build-your-own koppepan filled rolls, sweet + savoury. Beloved Morioka institution. Cheap, fast, quirky.",
         "added": "2026-08-19"
       }
     },
@@ -982,6 +1270,30 @@
         "stars": 1,
         "dates": "",
         "notes": "Dozens of free-roaming foxes in deep snow (peak thick-coat season). Last big \"rare\" hit before Sendai on Feb 2.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.0183617,
+          39.7528205
+        ]
+      },
+      "properties": {
+        "id": "shizukuishi-winter-festa",
+        "name": "Shizukuishi Winter Festa (Koiwai Farm)",
+        "name_ja": "雫石冬フェスタ（小岩井農場まきば園）",
+        "category": "Festivals & events",
+        "city": "Shizukuishi",
+        "cost": "~¥400 adult entry; activities/food extra",
+        "access": "~15 min from Morioka IC; ~30 min by van from Morioka Stn. Koiwai Farm Makibaen, 丸谷地",
+        "booking": "Walk-in",
+        "stars": 1,
+        "dates": "2026 ran ~Jan 31–Feb 23; CONFIRM travel-year window. Fireworks Sat evenings only",
+        "notes": "Successor to the cancelled Iwate Snow Festival. Snow sculptures, illuminations, snow slides + Genghis Khan lamb eaten in kamakura snow igloos. West of Morioka — Feb 4 arrival-night option. Pinned to the Makibaen visitor entrance; the 丸谷地36-1 address point geocodes ~2.2 km south of it.",
         "added": "2026-08-19"
       }
     },
