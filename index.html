@@ -90,10 +90,21 @@ var FALLBACK_COLOUR = "#7a828f";
 
 var map = L.map("map", { scrollWheelZoom: true, tap: true });
 
-L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-  maxZoom: 19,
-  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-}).addTo(map);
+// Esri World Street Map labels Japan bilingually (romaji + kanji) at every zoom.
+// CARTO/OSM styles fall back to kanji-only once you zoom past city level, which is
+// exactly where we need to read street and venue names.
+var BASEMAPS = {
+  "English": L.tileLayer(
+    "https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}", {
+      maxZoom: 19,
+      attribution: 'Tiles &copy; <a href="https://www.esri.com/">Esri</a> \u2014 Esri, DeLorme, NAVTEQ, Esri Japan, METI'
+    }),
+  "\u65e5\u672c\u8a9e": L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      maxZoom: 19,
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    })
+};
+BASEMAPS["English"].addTo(map);
 
 map.setView([39.0, 140.2], 6); // north Honshu, replaced by fitBounds once data loads
 
@@ -162,7 +173,7 @@ fetch("locations.geojson", { cache: "no-store" })
       overlays["Uncategorised (" + other.getLayers().length + ")"] = other;
     }
 
-    L.control.layers(null, overlays, { collapsed: window.innerWidth < 620 }).addTo(map);
+    L.control.layers(BASEMAPS, overlays, { collapsed: window.innerWidth < 620 }).addTo(map);
 
     var legend = L.control({ position: "bottomright" });
     legend.onAdd = function () {

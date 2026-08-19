@@ -35,7 +35,17 @@ booking treated as compromised.
 |---|---|
 | `locations.geojson` | The data. Every place lives here. |
 | `index.html` | Leaflet map, Leaflet via CDN, no build step. Reads `locations.geojson`. |
+| `.gitignore` | Keeps `bookings.private.md` untracked. |
 | `README.md` | Human-facing overview + live map URL. |
+
+## Basemap
+
+The map defaults to **Esri World Street Map**, with plain OSM offered as a `日本語`
+alternative in the layer control. This is deliberate: Esri labels Japan bilingually
+(romaji under kanji) at *every* zoom level, while OSM and CARTO styles show English only
+for major cities and revert to kanji-only around zoom 14 — precisely where you need to
+read a street or venue name. Before swapping the basemap, check the replacement at
+zoom 16 over Furumachi, not just at region zoom.
 
 ## Property schema
 
