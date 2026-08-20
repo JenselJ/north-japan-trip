@@ -390,6 +390,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          141.138916,
+          39.701927
+        ]
+      },
+      "properties": {
+        "id": "morioka-animate",
+        "name": "animate Morioka",
+        "name_ja": "アニメイト盛岡",
+        "category": "Anime",
+        "city": "Morioka",
+        "cost": "Free",
+        "access": "盛岡駅前通7-12, はちや盛岡駅前ビル 2F — ~5 min from Morioka Stn east exit",
+        "booking": "Walk-in",
+        "stars": 1,
+        "dates": "",
+        "notes": "Iwate's anime/manga/game flagship — figures, trading cards, ani-kuji, character goods. Address confirmed Aug 2026 from animate's own store page; it is by the station on 駅前通, not in the Ōdōri/Saien area.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.145905,
+          39.703129
+        ]
+      },
+      "properties": {
+        "id": "morioka-odori-arcade",
+        "name": "Morioka Ōdōri arcade (used-goods & gachapon)",
+        "name_ja": "盛岡大通商店街",
+        "category": "Anime",
+        "city": "Morioka",
+        "cost": "Free",
+        "access": "Central Morioka, walkable",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "Covered downtown shopping street for a loose second-hand/otaku crawl (Book-Off-type shops, crane games). Loose anchor — a browsing district, not one shop. Anchored on 大通二丁目; ~700 m east of animate.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           141.156464,
           39.700523
         ]
@@ -486,6 +534,102 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          141.1576849,
+          39.6988951
+        ]
+      },
+      "properties": {
+        "id": "morioka-chokurian",
+        "name": "Chokurian (wanko soba)",
+        "name_ja": "直利庵",
+        "category": "Food & drink",
+        "city": "Morioka",
+        "cost": "Wanko from ~¥3,355; soba/donburi cheaper",
+        "access": "Central Morioka near Nakano-bashi, walk/van from station",
+        "booking": "Wanko first-come, no phone res; split tables at 7",
+        "stars": 0,
+        "dates": "",
+        "notes": "Older/calmer wanko soba alt to Azumaya, reputedly Morioka's first (est. 1884); ~9 condiments to vary bowls.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1568838,
+          39.7048706
+        ]
+      },
+      "properties": {
+        "id": "morioka-meat-yoneuchi",
+        "name": "Meat Yoneuchi (butcher + reimen)",
+        "name_ja": "肉の米内",
+        "category": "Food & drink",
+        "city": "Morioka",
+        "cost": "Reimen ~¥900–1,200",
+        "access": "~10 min N of station along Nakatsu River, at foot of Kami-no-hashi",
+        "booking": "Walk-in, small, may split",
+        "stars": 0,
+        "dates": "",
+        "notes": "1899 butcher that also serves a locally loved reimen; order with the spicy option.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.159607,
+          39.692623
+        ]
+      },
+      "properties": {
+        "id": "morioka-asabiraki-brewery",
+        "name": "Asabiraki Brewery",
+        "name_ja": "あさ開 酒蔵",
+        "category": "Food & drink",
+        "city": "Morioka",
+        "cost": "Tasting modest; bottles vary",
+        "access": "盛岡市大慈寺町, ~10 min van E of station",
+        "booking": "Shop walk-in; call ahead for a 7-person brewery tour; confirm winter hours",
+        "stars": 0,
+        "dates": "",
+        "notes": "Morioka sake brewery (Nanbu Tōji heartland) with shop + tasting; anchor for the Iwate-sake stop.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1560217,
+          39.70259
+        ]
+      },
+      "properties": {
+        "id": "morioka-konyacho-banya",
+        "name": "Konyacho Banya (retro cafe)",
+        "name_ja": "紺屋町番屋",
+        "category": "Food & drink",
+        "city": "Morioka",
+        "cost": "Cafe prices",
+        "access": "Konya-chō, central Morioka, walkable with Red Brick Bldg + river",
+        "booking": "Walk-in, small, may split",
+        "stars": 0,
+        "dates": "",
+        "notes": "Cafe + crafts in an 1891 former fire station; near the old Gozaku (ござ九) merchant district. ~120 m from the Iwate Bank Red Brick Building, so they pair on one walk.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           141.1332007,
           39.7005144
         ]
@@ -502,6 +646,102 @@
         "stars": 0,
         "dates": "",
         "notes": "Spocha, bowling, arcade, giga crane games. Listed as 24h, no closing days — reconfirm nearer the date. Good rainy/late-night fallback for a group of 7.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1551263,
+          39.700685
+        ]
+      },
+      "properties": {
+        "id": "morioka-iwate-bank-red-brick",
+        "name": "Iwate Bank Red Brick Building",
+        "name_ja": "岩手銀行赤レンガ館",
+        "category": "Unique / rare",
+        "city": "Morioka",
+        "cost": "Iwate Bank zone free; Morioka Bank museum zone ~¥300",
+        "access": "中ノ橋通1丁目, central Morioka, walkable",
+        "booking": "Walk-in",
+        "stars": 1,
+        "dates": "",
+        "notes": "Meiji red-brick landmark by Kingo Tatsuno (Tokyo Station architect); only surviving Tatsuno design in Tōhoku; photogenic over the Nakatsu River/Nakano Bridge.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1397509,
+          39.7024366
+        ]
+      },
+      "properties": {
+        "id": "morioka-kaiunbashi",
+        "name": "Kaiunbashi & Nakatsu River walk",
+        "name_ja": "開運橋",
+        "category": "Unique / rare",
+        "city": "Morioka",
+        "cost": "Free",
+        "access": "Directly in front of Morioka Stn over the Kitakami River",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "Bridge framing Mt Iwate (locally teased \"letdown\" view); quick photo stop + short riverside walk to the Red Brick Building. Note the bridge itself spans the Kitakami; the Nakatsu is the smaller river downtown by the Red Brick Building, ~1.3 km east.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1512335,
+          39.7037896
+        ]
+      },
+      "properties": {
+        "id": "morioka-ishiwari-zakura",
+        "name": "Ishiwari-zakura",
+        "name_ja": "石割桜",
+        "category": "Unique / rare",
+        "city": "Morioka",
+        "cost": "Free",
+        "access": "盛岡地方裁判所 (Morioka District Court), 内丸, central",
+        "booking": "Walk-in (view from outside)",
+        "stars": 0,
+        "dates": "",
+        "notes": "Cherry tree growing out of a split granite boulder in the courthouse forecourt; an oddity even bare in winter.",
+        "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.196594,
+          39.697155
+        ]
+      },
+      "properties": {
+        "id": "morioka-zoomo",
+        "name": "ZOOMO (Morioka Zoo)",
+        "name_ja": "盛岡市動物公園ZOOMO",
+        "category": "Unique / rare",
+        "city": "Morioka",
+        "cost": "¥1,000 adult (high school+); ¥800pp for groups of 20+; ¥500 elementary/middle",
+        "access": "新庄字下八木田, SE of the city, ~20 min van",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "Open through winter, 10:00–16:00 (last entry 15:30) Nov 1–Mar 31. CLOSED Wednesdays AND Thursdays in the winter season",
+        "notes": "Recently rebuilt city zoo, quiet in winter. Hours and price confirmed Aug 2026 from ZOOMO's own site: it does NOT close for the season, but the winter Wed+Thu closure is easy to trip over. Allow ~2 hrs to see everything.",
         "added": "2026-08-19"
       }
     },
