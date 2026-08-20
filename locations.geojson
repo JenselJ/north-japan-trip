@@ -78,6 +78,174 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          140.7358483,
+          40.8259119
+        ]
+      },
+      "properties": {
+        "id": "aomori-nokke-don-furukawa",
+        "name": "Aomori nokke-don (Furukawa Market)",
+        "name_ja": "青森魚菜センター（のっけ丼）",
+        "category": "Food & drink",
+        "city": "Aomori",
+        "cost": "~¥1,500–2,000 by toppings",
+        "access": "青森市古川1-11-16, central Aomori near the station; lunch-oriented (winds down mid-afternoon)",
+        "booking": "Walk-in; arrive early",
+        "stars": 1,
+        "dates": "",
+        "notes": "Build-your-own kaisendon — buy a ticket sheet and top your rice bowl stall by stall. [AOMORI] arrival stop.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7351606,
+          40.8302212
+        ]
+      },
+      "properties": {
+        "id": "aomori-a-factory",
+        "name": "A-FACTORY",
+        "name_ja": "エーファクトリー",
+        "category": "Food & drink",
+        "city": "Aomori",
+        "cost": "Pay per tasting/item",
+        "access": "青森市柳川1-4-2, Aomori Bay beside JR Aomori Stn",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "Waterfront cidery — tasting machines for local Aomori hard cider + food hall.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8627965,
+          40.8976143
+        ]
+      },
+      "properties": {
+        "id": "aomori-asamushi-aquarium",
+        "name": "Asamushi Aquarium",
+        "name_ja": "浅虫水族館",
+        "category": "Unique / rare",
+        "city": "Aomori",
+        "cost": "~¥1,050 (buy online)",
+        "access": "青森市浅虫字馬場山1-25, on the bay ~20 min E of Aomori",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "Coastal aquarium with dolphin shows — natural last stop before Aomori; clusters with the Asamushi ryokan option (Nanbuya Kaisenkaku). [AOMORI].",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.735946,
+          40.8295723
+        ]
+      },
+      "properties": {
+        "id": "aomori-nebuta-warasse",
+        "name": "Nebuta Museum WA RASSE",
+        "name_ja": "ねぶたの家 ワ・ラッセ",
+        "category": "Unique / rare",
+        "city": "Aomori",
+        "cost": "~¥620 (confirm)",
+        "access": "青森市安方1-1-1, 1 min from JR Aomori Stn",
+        "booking": "Walk-in",
+        "stars": 1,
+        "dates": "",
+        "notes": "Giant illuminated Nebuta festival floats indoors year-round + taiko/haneto demos. Open into the evening — best Aomori-city arrival-night hit. [AOMORI].",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.4528189,
+          40.5269152
+        ]
+      },
+      "properties": {
+        "id": "hachinohe-hasshoku-center",
+        "name": "Hasshoku Center — Shichirin-mura",
+        "name_ja": "八食センター 七厘村",
+        "category": "Food & drink",
+        "city": "Hachinohe",
+        "cost": "¥400pp / 2-hr grill seat + what you buy",
+        "access": "Near JR Hachinohe Stn; ¥100/¥200 loop buses or park the van (八戸市河原木字神才22-2)",
+        "booking": "Walk-in, great for 7",
+        "stars": 1,
+        "dates": "",
+        "notes": "Buy seafood/meat at ~70 stalls and grill it yourself. Market hall + Shichirin-mura closed Weds; Feb 5 Fri = open. East-line group-food highlight.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.4906371,
+          40.509419
+        ]
+      },
+      "properties": {
+        "id": "hachinohe-miroku-yokocho",
+        "name": "Miroku Yokocho (senbei-jiru)",
+        "name_ja": "八戸屋台村 みろく横丁",
+        "category": "Food & drink",
+        "city": "Hachinohe",
+        "cost": "Izakaya prices",
+        "access": "Central Hachinohe, 三日町/六日町",
+        "booking": "Stalls tiny — spread out or reserve a larger izakaya",
+        "stars": 0,
+        "dates": "",
+        "notes": "Yatai village; home of Hachinohe senbei-jiru hotpot (crackers gone al-dente in broth). Group izakaya-crawl evening.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.523697,
+          40.518173
+        ]
+      },
+      "properties": {
+        "id": "hachinohe-shuzo",
+        "name": "Hachinohe Shuzō (Mutsu Hassen)",
+        "name_ja": "八戸酒造（陸奥八仙）",
+        "category": "Food & drink",
+        "city": "Hachinohe",
+        "cost": "Tasting modest; bottles vary",
+        "access": "八戸市湊町; confirm winter tour hours",
+        "booking": "Shop walk-in; call ahead for a tour for 7",
+        "stars": 0,
+        "dates": "",
+        "notes": "Well-regarded brewery in the old port district — tasting + Mutsu Hassen bottles. [EAST]. COORD APPROXIMATE: the brewery is absent from OSM, so this pin is the GSI district point for 大字湊町 — the actual kura is somewhere in that district; confirm the street address before navigating.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           140.719269,
           41.824326
         ]
@@ -335,6 +503,30 @@
         "dates": "",
         "notes": "One of Japan's big-3 ramen towns; light shoyu, thick flat noodles, morning-ramen culture. Chāshū-piled niku-soba icon. Feb 2 drive stop.",
         "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.593948,
+          40.648682
+        ]
+      },
+      "properties": {
+        "id": "kuroishi-sugo-shokudo",
+        "name": "Sugō Shokudō (Kuroishi tsuyu-yakisoba)",
+        "name_ja": "すごう食堂",
+        "category": "Food & drink",
+        "city": "Kuroishi",
+        "cost": "Tsuyu-yakisoba ~¥700",
+        "access": "黒石市一番町186, ~5 min from Kuroishi Stn; near Kuroishi IC on the Aomori Expwy approach",
+        "booking": "Small (~18 seats), solo-run, irregular closures — call ahead or split",
+        "stars": 0,
+        "dates": "",
+        "notes": "Fat yakisoba noodles served in hot soba broth — 1912 \"hundred-year diner\" by the Komise arcade.",
+        "added": "2026-08-20"
       }
     },
     {
@@ -1062,6 +1254,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          141.30481,
+          40.271206
+        ]
+      },
+      "properties": {
+        "id": "ninohe-nanbu-senbei-no-sato",
+        "name": "Nanbu Senbei no Sato",
+        "name_ja": "南部せんべいの里（巖手屋／小松製菓）",
+        "category": "Food & drink",
+        "city": "Ninohe",
+        "cost": "Cheap (snacks/souvenirs)",
+        "access": "二戸市, off the Tōhoku Expwy near Ninohe; confirm winter hours",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "Working senbei factory + shop — the cracker that goes into Hachinohe senbei-jiru. Factory viewing. [MAIN] on the Morioka→Aomori line. COORD APPROXIMATE: the site is absent from OSM and no street address was supplied, so this pin is the GSI municipal point for 二戸市 — get the exact address before navigating to it.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           141.1448378,
           42.4951825
         ]
@@ -1535,6 +1751,102 @@
         "dates": "2026 ran ~Jan 31–Feb 23; CONFIRM travel-year window. Fireworks Sat evenings only",
         "notes": "Successor to the cancelled Iwate Snow Festival. Snow sculptures, illuminations, snow slides + Genghis Khan lamb eaten in kamakura snow igloos. West of Morioka — Feb 4 arrival-night option. Pinned to the Makibaen visitor entrance; the 丸谷地36-1 address point geocodes ~2.2 km south of it.",
         "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8930761,
+          40.4261279
+        ]
+      },
+      "properties": {
+        "id": "towada-lake-winter-story",
+        "name": "Lake Towada Winter Story",
+        "name_ja": "十和田湖冬物語",
+        "category": "Festivals & events",
+        "city": "Towada",
+        "cost": "Free entry; food/activities pay-per",
+        "access": "十和田湖畔休屋 (Yasumiya), 青森県十和田市奥瀬十和田湖畔; ~34 km from Towada IC",
+        "booking": "Walk-in",
+        "stars": 1,
+        "dates": "2026 ran ~Jan 30–Feb 23; operates Mon + Fri–Sun (closed Tue/Wed/Thu); fireworks nightly ~19:30–20:00; Feb 5 Fri should be live — confirm 2027",
+        "notes": "Snow-village yatai, kamakura ice-bar, snow slides + nightly winter fireworks over the frozen lake. [SOUTH — deep], pairs with the Oirase icefall night tour. Pin = the Yasumiya lakeside hub (十和田湖観光交流センター ぷらっと); the 特設会場 is the open ground beside it.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.2139739,
+          40.6156826
+        ]
+      },
+      "properties": {
+        "id": "towada-daishoen",
+        "name": "Daishōen (Towada barayaki)",
+        "name_ja": "大昌園",
+        "category": "Food & drink",
+        "city": "Towada",
+        "cost": "Barayaki set ~¥990 (11:00–15:00); single ~¥770",
+        "access": "十和田市稲生町16-8; ~2 min / 6-min walk from Towada Art Center. Open 10:30–22:00, closed 2nd/4th Weds",
+        "booking": "Walk-in; call ahead for 7",
+        "stars": 0,
+        "dates": "",
+        "notes": "Self-grilled sweet-soy beef + onion, Towada's B-gourmet. 1963 yakiniku shop, seats groups, clusters with the art museum. Famous alt: 司 (tower-yaki, lunch-only, Mon-closed).",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.9787529,
+          40.5745801
+        ]
+      },
+      "properties": {
+        "id": "towada-oirase-icefalls",
+        "name": "Oirase Gorge icefalls",
+        "name_ja": "奥入瀬渓流 氷瀑",
+        "category": "Unique / rare",
+        "city": "Towada",
+        "cost": "Snowshoe ¥7,000pp (2+); bus icefall tour ¥3,300–4,400",
+        "access": "Meet at Oirase Keiryūkan 奥入瀬渓流館, 十和田市奥瀬字栃久保183; departures ~9:30/13:30",
+        "booking": "Reserve ahead for 7",
+        "stars": 1,
+        "dates": "Bus tour Dec 20–Mar 1, Fri/Sat/Sun + New Year only — Feb 5 Fri operates",
+        "notes": "The winter walk-in — snowshoe through the deep-snow gorge to frozen falls, or a warm guided bus tour. [SOUTH]. Pin = the Keiryūkan meeting point, ~18 km downstream of Lake Towada.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.2089653,
+          40.6140032
+        ]
+      },
+      "properties": {
+        "id": "towada-art-center",
+        "name": "Towada Art Center",
+        "name_ja": "十和田市現代美術館",
+        "category": "Unique / rare",
+        "city": "Towada",
+        "cost": "~¥1,800 special + permanent (confirm)",
+        "access": "十和田市西二番町10-9; 9:00–17:00 (last entry 16:30), closed Mondays",
+        "booking": "Walk-in",
+        "stars": 1,
+        "dates": "FLAG — took a maintenance closure Feb 2–6 in 2026; verify the 2027 Feb calendar before a Feb 5 visit",
+        "notes": "Standout contemporary museum — Kusama, giant flower-horse, Ron Mueck + outdoor art street. [SOUTH], clusters with Daishōen.",
+        "added": "2026-08-20"
       }
     },
     {
