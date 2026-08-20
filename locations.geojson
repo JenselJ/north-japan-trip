@@ -78,22 +78,70 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          140.7374207,
+          40.8256031
+        ]
+      },
+      "properties": {
+        "id": "aomori-animate",
+        "name": "animate Aomori",
+        "name_ja": "アニメイト青森",
+        "category": "Anime",
+        "city": "Aomori",
+        "cost": "Free",
+        "access": "古川1-14-5, フクシスポーツビル 4F, ~6 min walk from Aomori Stn east exit",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "Aomori-city anime/manga/goods flagship, in the 古川 block with the nokke-don + miso-curry-milk cluster. Hours [weekday]12:00–18:00 / [Sat/Sun/hol]11:00–18:00. Flying Witch is set in Hirosaki (seichō tie-in). [AOMORI]",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7409729,
+          40.8297262
+        ]
+      },
+      "properties": {
+        "id": "aomori-bay-illumination",
+        "name": "Aomori Bay illumination (Aspam / A-Factory front)",
+        "name_ja": "青森ベイエリア イルミネーション（アスパム前）",
+        "category": "Festivals & events",
+        "city": "Aomori",
+        "cost": "Free",
+        "access": "Aomori Bay waterfront, Aspam 安方1-1-40, 1 min from Aomori Stn",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "Evening bay-side lights around the Aspam triangle tower + A-Factory / bay bridge — easy after-dinner stroll. Area pin anchored on Aspam. [AOMORI]",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           140.7358483,
           40.8259119
         ]
       },
       "properties": {
         "id": "aomori-nokke-don-furukawa",
-        "name": "Aomori nokke-don (Furukawa Market)",
-        "name_ja": "青森魚菜センター（のっけ丼）",
+        "name": "Nokke-don (Furukawa Market)",
+        "name_ja": "のっけ丼（青森魚菜センター／古川市場）",
         "category": "Food & drink",
         "city": "Aomori",
-        "cost": "~¥1,500–2,000 by toppings",
-        "access": "青森市古川1-11-16, central Aomori near the station; lunch-oriented (winds down mid-afternoon)",
-        "booking": "Walk-in; arrive early",
+        "cost": "~¥1,500–2,000 (12-ticket sheet ¥2,200; single ¥190)",
+        "access": "Central Aomori, 5–6 min walk from Aomori Stn (古川1-11-16)",
+        "booking": "Walk-in — great for 7, everyone builds their own",
         "stars": 1,
-        "dates": "",
-        "notes": "Build-your-own kaisendon — buy a ticket sheet and top your rice bowl stall by stall. [AOMORI] arrival stop.",
+        "dates": "Nokke-don 7:00–16:00; market closed Tuesdays (Feb 6 Sat open)",
+        "notes": "Build-your-own kaisendon — buy meal tickets, swap for rice, top it stall by stall. Lunch-oriented; arrive early or use as a Feb 6 breakfast. [AOMORI] arrival stop.",
         "added": "2026-08-20"
       }
     },
@@ -113,11 +161,59 @@
         "category": "Food & drink",
         "city": "Aomori",
         "cost": "Pay per tasting/item",
-        "access": "青森市柳川1-4-2, Aomori Bay beside JR Aomori Stn",
+        "access": "Aomori Bay, beside JR Aomori Stn (柳川1-4-2)",
         "booking": "Walk-in",
         "stars": 0,
         "dates": "",
-        "notes": "Waterfront cidery — tasting machines for local Aomori hard cider + food hall.",
+        "notes": "Glass-walled waterfront cidery — tasting machines for Aomori hard cider + food hall & apple sweets. Clusters with Nebuta WA·RASSE + Hakkōda-maru. [AOMORI]",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7368034,
+          40.8247813
+        ]
+      },
+      "properties": {
+        "id": "aomori-aji-no-sapporo-onishi",
+        "name": "Aji no Sapporo Ōnishi (miso curry milk ramen)",
+        "name_ja": "味の札幌 大西",
+        "category": "Food & drink",
+        "city": "Aomori",
+        "cost": "~¥1,000",
+        "access": "Central Aomori (古川), walk from Aomori Stn",
+        "booking": "Walk-in; small — may split",
+        "stars": 1,
+        "dates": "",
+        "notes": "Aomori's cult bowl — miso + curry powder + milk + butter, invented at \"Aji no Sapporo\" (est. 1968). Ōnishi is the best-known flagship; ~5 shops citywide serve it. Pin is Ōnishi, not the 新町 分店. [AOMORI]",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7339293,
+          40.827192
+        ]
+      },
+      "properties": {
+        "id": "aomori-nagao-chuka-soba",
+        "name": "Nagao Chūka Soba (Aomori niboshi ramen)",
+        "name_ja": "長尾中華そば",
+        "category": "Food & drink",
+        "city": "Aomori",
+        "cost": "~¥900",
+        "access": "Aomori city — pin is the 青森駅前店 branch, ~200 m / 3 min from Aomori Stn",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "Aomori's everyday signature — heavy sardine-broth (niboshi) shoyu. Counterpoint to the miso-curry-milk novelty. Four branches in the city; this pin is 青森駅前店 (the central one). Others: 西バイパス本店, 中央店, 東バイパス店. [AOMORI]",
         "added": "2026-08-20"
       }
     },
@@ -174,22 +270,70 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          140.8316891,
+          40.680876
+        ]
+      },
+      "properties": {
+        "id": "aomori-hakkoda-ropeway",
+        "name": "Hakkōda Ropeway (snow monsters)",
+        "name_ja": "八甲田ロープウェー（樹氷）",
+        "category": "Unique / rare",
+        "city": "Aomori",
+        "cost": "Ropeway round-trip ~¥2,000 (confirm); guided snowshoe tours extra",
+        "access": "山麓駅, 荒川寒水沢1-12; ~1 hr S of central Aomori by van",
+        "booking": "Walk-in for the ropeway; reserve snowshoe tours",
+        "stars": 1,
+        "dates": "Peak white juhyō Feb–Mar",
+        "notes": "Aomori-todomatsu firs frozen into \"snow monsters\"; 15-min cable car to 1,324 m. Sightseeing, NOT skiing. Jan–Feb crowds — waits up to ~150 min; runs every 20 min; suspends in bad weather (verify morning-of). Clusters with Sukayu on Rte 103. Pin = 山麓 (base) station; the 山頂公園 summit station is 2.4 km SE. [AOMORI]",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7008863,
+          40.8072917
+        ]
+      },
+      "properties": {
+        "id": "aomori-museum-of-art",
+        "name": "Aomori Museum of Art",
+        "name_ja": "青森県立美術館",
+        "category": "Unique / rare",
+        "city": "Aomori",
+        "cost": "~¥510 permanent (confirm; specials extra)",
+        "access": "安田字近野185, next to Sannai-Maruyama; ~15 min by van",
+        "booking": "Walk-in; buy online for specials",
+        "stars": 0,
+        "dates": "Confirm winter Monday closures",
+        "notes": "Home of Nara Yoshitomo's work + the giant outdoor \"Aomori-ken\" dog. Clusters with the Sannai-Maruyama Jōmon site. [AOMORI]",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           141.4528189,
           40.5269152
         ]
       },
       "properties": {
         "id": "hachinohe-hasshoku-center",
-        "name": "Hasshoku Center — Shichirin-mura",
+        "name": "Hasshoku Center (Shichirin-mura)",
         "name_ja": "八食センター 七厘村",
         "category": "Food & drink",
         "city": "Hachinohe",
-        "cost": "¥400pp / 2-hr grill seat + what you buy",
-        "access": "Near JR Hachinohe Stn; ¥100/¥200 loop buses or park the van (八戸市河原木字神才22-2)",
-        "booking": "Walk-in, great for 7",
+        "cost": "¥400pp for a 2-hr grill seat + whatever you buy",
+        "access": "Near JR Hachinohe Stn (河原木字神才22-2); ¥100/¥200 loop buses or park the van",
+        "booking": "Walk-in, great for 7. Market + Shichirin-mura closed Weds (Feb 5 Fri = open)",
         "stars": 1,
         "dates": "",
-        "notes": "Buy seafood/meat at ~70 stalls and grill it yourself. Market hall + Shichirin-mura closed Weds; Feb 5 Fri = open. East-line group-food highlight.",
+        "notes": "Buy seafood/meat at ~70 stalls, grill it yourself over charcoal. East-line group-food highlight on the Feb 5 Hachinohe day. [EAST]",
         "added": "2026-08-20"
       }
     },
@@ -204,16 +348,16 @@
       },
       "properties": {
         "id": "hachinohe-miroku-yokocho",
-        "name": "Miroku Yokocho (senbei-jiru)",
+        "name": "Miroku Yokochō",
         "name_ja": "八戸屋台村 みろく横丁",
         "category": "Food & drink",
         "city": "Hachinohe",
         "cost": "Izakaya prices",
-        "access": "Central Hachinohe, 三日町/六日町",
-        "booking": "Stalls tiny — spread out or reserve a larger izakaya",
-        "stars": 0,
+        "access": "Central Hachinohe (三日町〜六日町)",
+        "booking": "Stalls tiny (~8 seats each) — spread across a few or reserve a larger izakaya",
+        "stars": 1,
         "dates": "",
-        "notes": "Yatai village; home of Hachinohe senbei-jiru hotpot (crackers gone al-dente in broth). Group izakaya-crawl evening.",
+        "notes": "26-stall yatai alley; Hachinohe senbei-jiru, seafood, oden, skewers, Hachinohe ramen. Good Feb 5 lunch/dinner. [EAST]",
         "added": "2026-08-20"
       }
     },
@@ -335,6 +479,54 @@
         "dates": "",
         "notes": "Heian-era Pure Land pond-garden — beautiful and near-empty snowed-in in Feb.",
         "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.4636605,
+          40.6079291
+        ]
+      },
+      "properties": {
+        "id": "hirosaki-castle-snow-lantern",
+        "name": "Hirosaki Castle Snow Lantern Festival",
+        "name_ja": "弘前城雪燈籠まつり",
+        "category": "Festivals & events",
+        "city": "Hirosaki",
+        "cost": "Free",
+        "access": "Hirosaki Park (下白銀町1); ~45–50 min W of Aomori by van, or bus ~15 min from Hirosaki Stn",
+        "booking": "Walk-in",
+        "stars": 1,
+        "dates": "Early–mid Feb; 2025 & 2026 both Feb 6–11; 2027 not posted — confirm. Feb 6 Sat likely opening",
+        "notes": "One of the Michinoku Five Great Snow Festivals — ~150 snow lanterns + ~300 candle-lit mini-kamakura ringing the pond below the keep, lit at dusk; big snow sculpture + slides. Flying Witch seichō town. Pin = the castle keep inside Hirosaki Park; the festival spreads across the park.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.4642268,
+          40.6038448
+        ]
+      },
+      "properties": {
+        "id": "hirosaki-electrical-fantasy",
+        "name": "Hirosaki Electrical Fantasy (winter illumination)",
+        "name_ja": "弘前エレクトリカルファンタジー",
+        "category": "Festivals & events",
+        "city": "Hirosaki",
+        "cost": "Free",
+        "access": "Hirosaki Park / Otemon (追手門) area",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "~Dec – late Feb; reliably on regardless of Snow Lantern dates",
+        "notes": "Winter light-up of Hirosaki Park's Western-style heritage buildings + street trees. Runs alongside the Snow Lantern Festival window. Pin = Otemon, the park's south main gate, 457 m S of the castle keep.",
+        "added": "2026-08-20"
       }
     },
     {
@@ -1845,7 +2037,7 @@
         "booking": "Walk-in",
         "stars": 1,
         "dates": "FLAG — took a maintenance closure Feb 2–6 in 2026; verify the 2027 Feb calendar before a Feb 5 visit",
-        "notes": "Standout contemporary museum — Kusama, giant flower-horse, Ron Mueck + outdoor art street. [SOUTH], clusters with Daishōen.",
+        "notes": "Standout contemporary museum — Kusama, flower-horse, Ron Mueck + outdoor art street. [SOUTH], clusters with Daishōen and the Oirase icefall loop on Feb 6.",
         "added": "2026-08-20"
       }
     },
