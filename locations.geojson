@@ -390,6 +390,342 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          140.7539653,
+          41.7946434
+        ]
+      },
+      "properties": {
+        "id": "hakodate-goryokaku-tower",
+        "name": "Goryōkaku Tower (Detective Conan seichō)",
+        "name_ja": "五稜郭タワー",
+        "category": "Anime",
+        "city": "Hakodate",
+        "cost": "Tower ~¥1,000 (¥1,200 in illumination season)",
+        "access": "五稜郭町43-9; ~15 min from Hakodate Stn. Winter ~9:00–18:00",
+        "booking": "Walk-in",
+        "stars": 1,
+        "dates": "",
+        "notes": "Setting of the 2024 film \"名探偵コナン 100万ドルの五稜星\"; viewpoint over the star fort. Hakodate is also Love Live! Sunshine!! / Hakuōki territory. Pin is the tower itself, 346 m SW of the fort centroid.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7575092,
+          41.8139124
+        ]
+      },
+      "properties": {
+        "id": "hakodate-animate",
+        "name": "animate Hakodate",
+        "name_ja": "アニメイト函館",
+        "category": "Anime",
+        "city": "Hakodate",
+        "cost": "Free",
+        "access": "美原1-4-3 3F (near Goryōkaku); 11:00–19:00",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "Southern Hokkaidō anime/manga flagship.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7117728,
+          41.7637939
+        ]
+      },
+      "properties": {
+        "id": "hakodate-illumination",
+        "name": "Hakodate Illumination (Winter Festival)",
+        "name_ja": "はこだてイルミネーション",
+        "category": "Festivals & events",
+        "city": "Hakodate",
+        "cost": "Free",
+        "access": "Hachiman-zaka / 開港通り, Motomachi",
+        "booking": "None",
+        "stars": 1,
+        "dates": "~late Nov – Mar 31, sunset–22:00 (2025–26 dates; confirm 2026–27)",
+        "notes": "Winter-festival centrepiece, nightly. Feb 7 Sun fine. Pin is 八幡坂 itself, offset 113 m from the Motomachi churches pin.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7568375,
+          41.7967185
+        ]
+      },
+      "properties": {
+        "id": "hakodate-goryokaku-hoshi-no-yume",
+        "name": "Goryōkaku Hoshi no Yume star illumination",
+        "name_ja": "五稜星の夢",
+        "category": "Festivals & events",
+        "city": "Hakodate",
+        "cost": "Free to walk the moat; tower entry extra",
+        "access": "Goryōkaku (五稜郭町)",
+        "booking": "None",
+        "stars": 1,
+        "dates": "~Dec 1 – Feb 28, lit sunset–19:00 daily (confirm 2026–27)",
+        "notes": "Moat outlined in ~2,000 bulbs into a glowing star; best from the tower. Pin is the 五稜郭公園 node, clustering with the fort and tower pins at Goryōkaku by design.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7252055,
+          41.7722846
+        ]
+      },
+      "properties": {
+        "id": "hakodate-asaichi",
+        "name": "Hakodate Asaichi",
+        "name_ja": "函館朝市",
+        "category": "Food & drink",
+        "city": "Hakodate",
+        "cost": "Pay per item; kaisendon ~¥1,500–2,500",
+        "access": "~2 min W of Hakodate Stn",
+        "booking": "Walk-in",
+        "stars": 1,
+        "dates": "",
+        "notes": "~250-stall morning market; winter yari-ika squid, catch-your-own live squid, kaisendon (Kikuyo Shokudō tomoe-don is the icon). Good Feb-8 breakfast before the Tōya drive. Area pin on 函館朝市ひろば, 186 m from the station.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7148941,
+          41.765794
+        ]
+      },
+      "properties": {
+        "id": "hakodate-lucky-pierrot-bay",
+        "name": "Lucky Pierrot (Bay Area)",
+        "name_ja": "ラッキーピエロ ベイエリア本店",
+        "category": "Food & drink",
+        "city": "Hakodate",
+        "cost": "~¥400–900",
+        "access": "Bay Area flagship, 末広町; branches citywide",
+        "booking": "Walk-in, easy for 7",
+        "stars": 1,
+        "dates": "",
+        "notes": "Hakodate-area-only burger chain (17 branches); Chinese Chicken Burger. A Love Live! Sunshine!! spot. Wed = ramen 30% off. Pin is the 末広町18 ベイエリア本店, not one of the other branches.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7532732,
+          41.7946007
+        ]
+      },
+      "properties": {
+        "id": "hakodate-ajisai-ramen",
+        "name": "Ajisai (Hakodate shio ramen)",
+        "name_ja": "麺厨房 あじさい 本店",
+        "category": "Food & drink",
+        "city": "Hakodate",
+        "cost": "~¥800–1,000",
+        "access": "本店 by Goryōkaku (五稜郭町29-22); also station/bay branches",
+        "booking": "Walk-in; may split",
+        "stars": 1,
+        "dates": "",
+        "notes": "One of Hokkaidō's big-3 ramen — clear pork-bone shio. Pin is the 五稜郭 本店.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7150238,
+          41.7656478
+        ]
+      },
+      "properties": {
+        "id": "hakodate-hasegawa-store-bay",
+        "name": "Hasegawa Store (Bay Area)",
+        "name_ja": "ハセガワストア ベイエリア店",
+        "category": "Food & drink",
+        "city": "Hakodate",
+        "cost": "~¥600",
+        "access": "Bay Area branch, 末広町",
+        "booking": "Walk-in (counter)",
+        "stars": 0,
+        "dates": "",
+        "notes": "Pork-skewer yakitori bento, GLAY/local icon; classic combo w/ a Lucky Pierrot burger on a Goryōkaku bench. Sits 19 m from the Lucky Pierrot Bay Area flagship — grab both in one stop.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7302117,
+          41.7724285
+        ]
+      },
+      "properties": {
+        "id": "hakodate-daimon-yokocho",
+        "name": "Daimon Yokochō",
+        "name_ja": "大門横丁",
+        "category": "Food & drink",
+        "city": "Hakodate",
+        "cost": "Izakaya prices",
+        "access": "松風町7-5, ~5 min from Hakodate Stn",
+        "booking": "Reserve a bigger stall ahead for 7",
+        "stars": 0,
+        "dates": "",
+        "notes": "Yatai izakaya village near the station — the group night out. Area pin on the yokochō (函館ひかりの屋台 大門横丁), not one venue.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.71954,
+          41.76704
+        ]
+      },
+      "properties": {
+        "id": "hakodate-marukatsu-suisan",
+        "name": "Marukatsu Suisan (kaiten-zushi)",
+        "name_ja": "函館まるかつ水産 本店",
+        "category": "Food & drink",
+        "city": "Hakodate",
+        "cost": "~¥150–500/plate",
+        "access": "Bay Area (豊川町), near Kanemori",
+        "booking": "Queue-prone; name down for 7",
+        "stars": 0,
+        "dates": "",
+        "notes": "Fresh-seafood kaiten-zushi, group-friendly. Pin is the 豊川町 本店.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.721924,
+          41.768497
+        ]
+      },
+      "properties": {
+        "id": "hakodate-beer",
+        "name": "Hakodate Beer",
+        "name_ja": "はこだてビール",
+        "category": "Food & drink",
+        "city": "Hakodate",
+        "cost": "Brewpub prices",
+        "access": "大手町5-22, bayfront",
+        "booking": "Call ahead for 7",
+        "stars": 0,
+        "dates": "",
+        "notes": "Bayfront brewpub for a group beer-and-food night; Genghis Khan/izakaya plates. Absent from OSM — pin is the GSI address point for 大手町5番22号.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7160678,
+          41.7635516
+        ]
+      },
+      "properties": {
+        "id": "hakodate-goryoken",
+        "name": "Goryōken",
+        "name_ja": "五島軒 本店",
+        "category": "Food & drink",
+        "city": "Hakodate",
+        "cost": "Curry ~¥1,500+",
+        "access": "末広町4-5 (Motomachi)",
+        "booking": "Reserve for 7",
+        "stars": 0,
+        "dates": "",
+        "notes": "1879 Western yōshoku house famous for English-style curry — a Hakodate oddity, roomy for 7.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7262486,
+          41.7743441
+        ]
+      },
+      "properties": {
+        "id": "hakodate-snaffles",
+        "name": "Snaffle's (cheese omelette)",
+        "name_ja": "スナッフルス",
+        "category": "Food & drink",
+        "city": "Hakodate",
+        "cost": "~¥800+/box",
+        "access": "Station + Kanemori branches",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "The jiggly cheese-omelette cake — Hakodate souvenir sweet. COORD APPROXIMATE: no Hakodate branch is in OSM and no street address was supplied (the only OSM \"スナッフルス\" is a Sapporo shop, 250 km away), so this pin is JR Hakodate Stn itself — confirm the exact shop unit on the day.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7344879,
+          41.7733164
+        ]
+      },
+      "properties": {
+        "id": "hakodate-jiyu-ichiba",
+        "name": "Hakodate Jiyū Ichiba",
+        "name_ja": "はこだて自由市場",
+        "category": "Food & drink",
+        "city": "Hakodate",
+        "cost": "Pay per item",
+        "access": "新川町1-2, ~10 min from the station",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "More local/less touristy market — cheap standing-bar seafood if Asaichi prices grate.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           140.719269,
           41.824326
         ]
@@ -407,6 +743,174 @@
         "dates": "",
         "notes": "Southern Hokkaido's largest — 38 lanes, karaoke, Spo-Cha with go-karts/mini-bikes. Open 10:00–0:00 (24 hr Fri/Sat/holiday-eve). Fits Feb 7–8. Coords from GSI for the official lot 西桔梗町848-11; not present in OpenStreetMap.",
         "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.714177,
+          41.7609207
+        ]
+      },
+      "properties": {
+        "id": "hakodate-mt-hakodate-ropeway",
+        "name": "Mt Hakodate Ropeway (night view)",
+        "name_ja": "函館山ロープウェイ",
+        "category": "Unique / rare",
+        "city": "Hakodate",
+        "cost": "¥1,500 round trip adult (¥1,000 one-way); group rate",
+        "access": "Sanroku stn 元町19-7 (tram to Jūjigai). Winter 10:00–21:00, last up 20:50",
+        "booking": "Walk-in; busy",
+        "stars": 1,
+        "dates": "",
+        "notes": "Michelin 3-star night view; cold winter air = clearest. Summit road closed in winter so ropeway is the only way up. Pin is the 山麓 (base) station; 山頂駅 is 791 m WSW.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7569702,
+          41.796802
+        ]
+      },
+      "properties": {
+        "id": "hakodate-goryokaku-fort",
+        "name": "Goryōkaku (star fort)",
+        "name_ja": "五稜郭",
+        "category": "Unique / rare",
+        "city": "Hakodate",
+        "cost": "Grounds free",
+        "access": "五稜郭町",
+        "booking": "Walk-in",
+        "stars": 1,
+        "dates": "",
+        "notes": "Star-shaped Edo fort under snow; walk the moat. Pin is the fort centroid, distinct from the tower pin 346 m SW.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.789307,
+          41.7740801
+        ]
+      },
+      "properties": {
+        "id": "hakodate-tropical-botanical-garden",
+        "name": "Hakodate Tropical Botanical Garden (monkeys in onsen)",
+        "name_ja": "函館市熱帯植物園",
+        "category": "Unique / rare",
+        "city": "Hakodate",
+        "cost": "¥300 (¥240 group 20+); feed ¥100",
+        "access": "湯川町3-1-15. Winter 9:30–16:30, closed Dec 29–Jan 1",
+        "booking": "Walk-in",
+        "stars": 1,
+        "dates": "",
+        "notes": "Japanese macaques soaking in a hot spring (Dec–early May), 50-year tradition, by the Yunokawa ryokan. Daytime only.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7122175,
+          41.7628289
+        ]
+      },
+      "properties": {
+        "id": "hakodate-motomachi-churches",
+        "name": "Motomachi slopes & churches",
+        "name_ja": "元町 教会群・八幡坂",
+        "category": "Unique / rare",
+        "city": "Hakodate",
+        "cost": "Free (some interiors charge)",
+        "access": "Motomachi; tram to Suehirochō/Jūjigai",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "\"Exotic hillside\" — Hachiman-zaka, Orthodox/Catholic/Anglican churches, Old Public Hall. Pin is 函館ハリストス正教会 (元町13), 113 m from the Hachiman-zaka illumination pin.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7164492,
+          41.7661843
+        ]
+      },
+      "properties": {
+        "id": "hakodate-kanemori-warehouses",
+        "name": "Kanemori Red Brick Warehouses",
+        "name_ja": "金森赤レンガ倉庫",
+        "category": "Unique / rare",
+        "city": "Hakodate",
+        "cost": "Free to browse",
+        "access": "末広町14, bayfront",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "Bayfront brick warehouses of shops/food halls; winter \"floating shrine\" event at the adjacent Kanemori shrine.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7856804,
+          41.7796142
+        ]
+      },
+      "properties": {
+        "id": "hakodate-yunokawa-footbath",
+        "name": "Yunokawa Onsen footbath",
+        "name_ja": "湯の川温泉 湯巡り舞台",
+        "category": "Unique / rare",
+        "city": "Hakodate",
+        "cost": "Free",
+        "access": "By the 湯の川温泉 tram stop",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "Free riverside footbath + wa-style illumination stroll, steps from the ryokan.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7211846,
+          41.7450295
+        ]
+      },
+      "properties": {
+        "id": "hakodate-cape-tachimachi",
+        "name": "Cape Tachimachi",
+        "name_ja": "立待岬",
+        "category": "Unique / rare",
+        "city": "Hakodate",
+        "cost": "Free (tram fare)",
+        "access": "住吉町; tram to the end + short walk",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "Snowy cliff-cape view reached via Hakodate's vintage streetcars. Confirm the cape road isn't snow-closed on the day.",
+        "added": "2026-08-20"
       }
     },
     {
@@ -526,6 +1030,30 @@
         "stars": 0,
         "dates": "~Dec – late Feb; reliably on regardless of Snow Lantern dates",
         "notes": "Winter light-up of Hirosaki Park's Western-style heritage buildings + street trees. Runs alongside the Snow Lantern Festival window. Pin = Otemon, the park's south main gate, 457 m S of the castle keep.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.5694555,
+          41.7409526
+        ]
+      },
+      "properties": {
+        "id": "hokuto-trappist-monastery",
+        "name": "Trappist Monastery",
+        "name_ja": "トラピスト修道院",
+        "category": "Unique / rare",
+        "city": "Hokuto",
+        "cost": "Grounds free; cookies for sale",
+        "access": "北斗市三ツ石, near Shin-Hakodate-Hokuto",
+        "booking": "Walk-in (grounds/shop); interior tours by application",
+        "stars": 0,
+        "dates": "",
+        "notes": "Poplar-lined approach + snowy grounds; famous butter cookies + soft-serve at the gate shop (直売店 ~250 m SE of this pin). Van #2.",
         "added": "2026-08-20"
       }
     },
@@ -2063,6 +2591,30 @@
         "dates": "",
         "notes": "Cliff-face mountain temple, 1,000 stone steps, jaw-dropping under snow (Bashō's \"cicada silence\" haiku site). Steps get icy — good boots. Pair with Yamagata-city food.",
         "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.679842,
+          41.9853735
+        ]
+      },
+      "properties": {
+        "id": "onuma-quasi-national-park",
+        "name": "Ōnuma Quasi-National Park",
+        "name_ja": "大沼国定公園",
+        "category": "Unique / rare",
+        "city": "Ōnuma",
+        "cost": "Park free; activities extra",
+        "access": "七飯町大沼, ~30–40 min by van; near Ōnuma-kōen Stn",
+        "booking": "Reserve snowshoe/ice-fishing operators for 7",
+        "stars": 1,
+        "dates": "",
+        "notes": "Frozen-lake basin under Mt Komagatake — snowshoe, lake walking, wakasagi ice-fishing. No skiing. Basically on the Shin-Hakodate-Hokuto line. Van #2. In Nanae town, not Hakodate proper.",
+        "added": "2026-08-20"
       }
     }
   ]
