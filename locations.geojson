@@ -1254,6 +1254,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          140.8699352,
+          42.8589971
+        ]
+      },
+      "properties": {
+        "id": "kyogoku-fukidashi-park",
+        "name": "Kyōgoku Fukidashi Park",
+        "name_ja": "京極ふきだし公園",
+        "category": "Unique / rare",
+        "city": "Kyōgoku",
+        "cost": "Free",
+        "access": "京極町, toward Niseko",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "Yōtei snowmelt spring, one of Japan's 100 famous waters, dramatic frozen; FLAG opposite direction from Noboribetsu (ski country) — Noboribetsu OR this, not both.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           141.057587,
           38.367977
         ]
@@ -1998,6 +2022,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          141.1485109,
+          42.49825
+        ]
+      },
+      "properties": {
+        "id": "noboribetsu-onibi-no-michi",
+        "name": "Jigokudani Night Light-up (Onibi no Michi)",
+        "name_ja": "鬼火の路（登別地獄谷ライトアップ）",
+        "category": "Festivals & events",
+        "city": "Noboribetsu",
+        "cost": "Free",
+        "access": "登別地獄谷 boardwalk, after dark",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "Confirm winter operating nights",
+        "notes": "Jigokudani's steam + path lit after dark — \"demon-fire path\". Pin is the 三途の川 boardwalk section, 156 m from the Jigokudani viewpoint pin.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           141.1448378,
           42.4951825
         ]
@@ -2015,6 +2063,150 @@
         "dates": "",
         "notes": "35 tubs, 5–7 spring types, drinking-spring station, hot-water pool + slide. \"Department store of hot springs.\" Fits Feb 9 Noboribetsu day.",
         "added": "2026-08-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1433311,
+          42.5020993
+        ]
+      },
+      "properties": {
+        "id": "noboribetsu-oyunuma-footbath",
+        "name": "Ōyunuma & Ōyunuma-gawa Natural Footbath",
+        "name_ja": "大湯沼・大湯沼川天然足湯",
+        "category": "Onsen & sentō",
+        "city": "Noboribetsu",
+        "cost": "Free (24h)",
+        "access": "登別温泉町, above Jigokudani (trail from 大湯沼 lot)",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "Cobalt-blue geothermal river footbath; FLAG deep snow Dec–Mar makes the trail dicey — do the Ōyunuma overlook only unless cleared. Pin is the footbath; 大湯沼 pond is 328 m E, the 展望台 overlook 340 m ESE.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.14693,
+          42.497463
+        ]
+      },
+      "properties": {
+        "id": "noboribetsu-jigokudani",
+        "name": "Jigokudani Hell Valley",
+        "name_ja": "登別地獄谷",
+        "category": "Unique / rare",
+        "city": "Noboribetsu",
+        "cost": "Free; parking ¥500",
+        "access": "登別温泉町, ~10 min from Noboribetsu-Higashi IC",
+        "booking": "Walk-in",
+        "stars": 1,
+        "dates": "",
+        "notes": "450 m blast crater venting sulphur steam; 600 m loop ~20 min + 30-min path to Ōyunuma overlook; white steam vs snow.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1617118,
+          42.4636325
+        ]
+      },
+      "properties": {
+        "id": "noboribetsu-date-jidaimura",
+        "name": "Noboribetsu Date Jidaimura",
+        "name_ja": "登別伊達時代村",
+        "category": "Unique / rare",
+        "city": "Noboribetsu",
+        "cost": "¥3,300 adult",
+        "access": "登別市中登別町53-1, ~3 min Noboribetsu-Higashi IC; winter 9:00–16:00 (last entry 15:00), daily",
+        "booking": "Walk-in; fine for 7",
+        "stars": 1,
+        "dates": "Winter season Nov 1–early Mar",
+        "notes": "Edo culture park — ninja shows, oiran + winter samurai show, shuriken dojo, costume rental; the Noboribetsu anchor.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1590925,
+          42.4899881
+        ]
+      },
+      "properties": {
+        "id": "noboribetsu-bear-park",
+        "name": "Noboribetsu Bear Park",
+        "name_ja": "のぼりべつクマ牧場",
+        "category": "Unique / rare",
+        "city": "Noboribetsu",
+        "cost": "~¥2,800 incl. ropeway (confirm)",
+        "access": "登別温泉町224, ropeway from onsen strip",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "Mountaintop bear park + Ainu Yukar village; pricier/longer than the Shōwa-shinzan ranch. Pin is the hilltop park (matches the 224 address); board the ropeway at the strip, 1.25 km W.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1438883,
+          42.4941387
+        ]
+      },
+      "properties": {
+        "id": "noboribetsu-enmado",
+        "name": "Enma-dō & Gokuraku-dōri",
+        "name_ja": "閻魔堂・極楽通り商店街",
+        "category": "Unique / rare",
+        "city": "Noboribetsu",
+        "cost": "Free",
+        "access": "登別温泉町 main street",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "Animatronic King Enma \"face-changing\" show several times daily amid demon statues; eats + onsen-manjū along the strip.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1830083,
+          42.4550526
+        ]
+      },
+      "properties": {
+        "id": "noboribetsu-marine-park-nixe",
+        "name": "Noboribetsu Marine Park Nixe",
+        "name_ja": "登別マリンパークニクス",
+        "category": "Unique / rare",
+        "city": "Noboribetsu",
+        "cost": "~¥2,500 adult (confirm)",
+        "access": "登別市登別東町1-22, near JR Noboribetsu Stn; daily",
+        "booking": "Walk-in; buy online to skip queue",
+        "stars": 0,
+        "dates": "",
+        "notes": "Danish-castle aquarium with a daily penguin parade; all-weather change of pace.",
+        "added": "2026-08-20"
       }
     },
     {
@@ -2478,6 +2670,78 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          140.8618123,
+          42.5384533
+        ]
+      },
+      "properties": {
+        "id": "sobetsu-showa-shinzan-bear-ranch",
+        "name": "Shōwa-shinzan Bear Ranch",
+        "name_ja": "昭和新山熊牧場",
+        "category": "Unique / rare",
+        "city": "Sōbetsu",
+        "cost": "¥1,000 (¥900 group 25+), cash only",
+        "access": "壮瞥町昭和新山183, ~10 min car from onsen; winter 8:30–16:30, daily; free winter parking",
+        "booking": "Walk-in",
+        "stars": 1,
+        "dates": "",
+        "notes": "60–70 brown bears, feed them, plus 人のオリ human cage; runs even if ropeway is shut. Shares the Shōwa-shinzan car park with the ropeway (129 m) and lava dome (501 m).",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8643525,
+          42.5425537
+        ]
+      },
+      "properties": {
+        "id": "sobetsu-showa-shinzan-dome",
+        "name": "Shōwa-shinzan & Mimatsu Masao Memorial",
+        "name_ja": "昭和新山・三松正夫記念館",
+        "category": "Unique / rare",
+        "city": "Sōbetsu",
+        "cost": "Dome free to view; memorial small entry (confirm)",
+        "access": "壮瞥町昭和新山, same lot as bear ranch/ropeway",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "398 m lava dome that rose from a wheat field 1943–45; steams harder in cold; memorial tells the postmaster-recorder story. Pin is the dome summit itself (OSM records it at exactly 398 m); the 三松正夫記念館 building is 640 m SW.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8604592,
+          42.5390478
+        ]
+      },
+      "properties": {
+        "id": "sobetsu-mt-usu-ropeway",
+        "name": "Mt Usu Ropeway",
+        "name_ja": "有珠山ロープウェイ",
+        "category": "Unique / rare",
+        "city": "Sōbetsu",
+        "cost": "¥2,000 rt (group 15+ ~¥1,620); free winter parking",
+        "access": "壮瞥町字昭和新山184-5; winter 9:00–16:00",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "FLAG — annual winter-maintenance closure ~mid-to-late Feb (Feb 16 one year, late Jan others); verify 2027 usuzan.hokkaido.jp before planning",
+        "notes": "6-min ride to lake / Shōwa-shinzan / Yōtei lookout + Mt.USU terrace; summit rim trail closed Nov–Apr. Pin is the 昭和新山駅 base station; the 有珠山頂駅 is 1.3 km W.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           140.8930761,
           40.4261279
         ]
@@ -2566,6 +2830,318 @@
         "stars": 1,
         "dates": "FLAG — took a maintenance closure Feb 2–6 in 2026; verify the 2027 Feb calendar before a Feb 5 visit",
         "notes": "Standout contemporary museum — Kusama, flower-horse, Ron Mueck + outdoor art street. [SOUTH], clusters with Daishōen and the Oirase icefall loop on Feb 6.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7598422,
+          42.5922711
+        ]
+      },
+      "properties": {
+        "id": "toyako-windsor-hotel",
+        "name": "The Windsor Hotel Tōya",
+        "name_ja": "ザ・ウィンザーホテル洞爺",
+        "category": "Unique / rare",
+        "city": "Toyako",
+        "cost": "Afternoon tea/lounge — splurge (confirm)",
+        "access": "洞爺湖町清水, caldera-rim hilltop (van)",
+        "booking": "Confirm day-visitor access + reserve for 7",
+        "stars": 0,
+        "dates": "",
+        "notes": "2008 G8-summit hotel; day visitors for the lake-and-Pacific panorama / afternoon tea.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7996796,
+          42.6257851
+        ]
+      },
+      "properties": {
+        "id": "toyako-silo-observatory",
+        "name": "Silo Observatory",
+        "name_ja": "サイロ展望台",
+        "category": "Unique / rare",
+        "city": "Toyako",
+        "cost": "Free (helicopter flights sometimes seasonal)",
+        "access": "洞爺湖町成香, Route 2 north rim; winter-open",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "Best Lake Tōya panorama — caldera, Nakajima, Yōtei; blue-hour photo stop.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8181791,
+          42.5664605
+        ]
+      },
+      "properties": {
+        "id": "toyako-onsen-winter-fireworks",
+        "name": "Toyako Onsen Winter Fireworks",
+        "name_ja": "洞爺湖温泉冬花火",
+        "category": "Festivals & events",
+        "city": "Toyako Onsen",
+        "cost": "Free from shore; paid seats available",
+        "access": "Off 本社前桟橋, 洞爺湖温泉; nightly ~20:30, ~8 min",
+        "booking": "Walk-in",
+        "stars": 1,
+        "dates": "2026 ran Feb 3–12 (run being extended ~22 days); Feb 8–10 2027 should be covered — confirm 2027",
+        "notes": "Nightly music-synced fireworks over the lake, viewable from shore/ryokan; the reason to base here in Feb. Pin is the lakefront pier; OSM names it 駅前桟橋 rather than 本社前桟橋 — confirm the pier on the night.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8182102,
+          42.5663302
+        ]
+      },
+      "properties": {
+        "id": "toyako-onsen-fireworks-boat",
+        "name": "Toyako Winter Fireworks-Viewing Boat",
+        "name_ja": "洞爺湖 花火鑑賞船",
+        "category": "Festivals & events",
+        "city": "Toyako Onsen",
+        "cost": "Pay per ride",
+        "access": "Departs 本社前桟橋 ~20:35, ~40 min (洞爺湖汽船 0142-75-2137); fireworks nights only",
+        "booking": "Reserve for 7",
+        "stars": 0,
+        "dates": "Runs during the winter fireworks period",
+        "notes": "Watch the fireworks from the water — one-night group upgrade. Pin is the 洞爺湖汽船 cruise ticket office beside the pier.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.817795,
+          42.563587
+        ]
+      },
+      "properties": {
+        "id": "toyako-onsen-illumination-tunnel",
+        "name": "Toyako Illumination Tunnel",
+        "name_ja": "イルミネーショントンネル（にぎわい広場）",
+        "category": "Festivals & events",
+        "city": "Toyako Onsen",
+        "cost": "Free",
+        "access": "にぎわい広場, 洞爺湖温泉; 17:00–22:00",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "Nov 1–late Apr",
+        "notes": "~400,000-bulb light tunnel in the onsen centre; pairs with the fireworks walk. COORD APPROXIMATE: にぎわい広場 is not a named object in OSM (searched squares, parks and all 25 info boards on the strip) — this pin is the GSI district point for 洞爺湖温泉, which is the onsen centre. NOTE it shares that exact fallback point with the Ippei pin, so the two markers overlap on the map until a real address is supplied for either.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8190571,
+          42.5650448
+        ]
+      },
+      "properties": {
+        "id": "toyako-onsen-boyotei",
+        "name": "Bōyōtei",
+        "name_ja": "望羊蹄",
+        "category": "Food & drink",
+        "city": "Toyako Onsen",
+        "cost": "Pork chop ~¥1,450",
+        "access": "洞爺湖温泉36-12, onsen town; 11:00–16:00 & 17:00–20:30, tel 0142-75-2311",
+        "booking": "Reserve a 7-top",
+        "stars": 1,
+        "dates": "Confirm closed day",
+        "notes": "Retro 老舗 yōshoku; ポークチャップ is the order; easiest proper sit-down dinner in town.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8184542,
+          42.5652586
+        ]
+      },
+      "properties": {
+        "id": "toyako-onsen-okadaya",
+        "name": "Okadaya",
+        "name_ja": "岡田屋",
+        "category": "Food & drink",
+        "city": "Toyako Onsen",
+        "cost": "Cheap",
+        "access": "洞爺湖温泉36, ~3 min from onsen bus terminal; ~10:00–16:00",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "白いおしるこ (white shiruko, ōfukumame beans + milk) + 温泉どら dorayaki; Toya signature sweet.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8152088,
+          42.5654275
+        ]
+      },
+      "properties": {
+        "id": "toyako-onsen-wakasaimo",
+        "name": "Wakasaimo Honpo Toyako Honten",
+        "name_ja": "わかさいも本舗 洞爺湖本店",
+        "category": "Food & drink",
+        "city": "Toyako Onsen",
+        "cost": "Souvenir/snack; いもてん cheap",
+        "access": "Lakefront, 洞爺湖温泉; 2F 仙堂庵 lake-view washoku",
+        "booking": "Walk-in; 7 fine upstairs",
+        "stars": 0,
+        "dates": "",
+        "notes": "~100-yr wakasaimo confection (kombu-fibre imitation imo); get freshly-fried いもてん.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8218364,
+          42.5648934
+        ]
+      },
+      "properties": {
+        "id": "toyako-onsen-matsumaeya",
+        "name": "Matsumaeya",
+        "name_ja": "松前屋",
+        "category": "Food & drink",
+        "city": "Toyako Onsen",
+        "cost": "Hotate-don ~¥1,500; shio ramen ~¥900",
+        "access": "Onsen strip, 洞爺湖温泉",
+        "booking": "Walk-in; small, may split",
+        "stars": 0,
+        "dates": "",
+        "notes": "名物 ホタテ丼 (scallop + egg over rice); sleeper 塩ラーメン.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.817795,
+          42.563587
+        ]
+      },
+      "properties": {
+        "id": "toyako-onsen-ippei",
+        "name": "Ippei",
+        "name_ja": "一平",
+        "category": "Food & drink",
+        "city": "Toyako Onsen",
+        "cost": "Izakaya prices",
+        "access": "洞爺湖温泉 strip",
+        "booking": "Reserve for 7",
+        "stars": 0,
+        "dates": "",
+        "notes": "Onsen-strip izakaya; draft beer + 豚串 pork skewers; backup group night to Bōyōtei. COORD APPROXIMATE: not in OSM (a sweep of all 33 strip restaurants found てっ平 and 一本亭 but no 一平) and no street address supplied — this pin is the GSI district point for 洞爺湖温泉. NOTE it shares that exact fallback point with the Illumination Tunnel pin, so the two markers overlap on the map until a real address is supplied for either.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8178128,
+          42.5653933
+        ]
+      },
+      "properties": {
+        "id": "toyako-onsen-footbaths",
+        "name": "Toyako Onsen Foot & Hand Baths",
+        "name_ja": "洞爺湖温泉 手湯・足湯めぐり",
+        "category": "Onsen & sentō",
+        "city": "Toyako Onsen",
+        "cost": "Free",
+        "access": "Along the 洞爺湖温泉 promenade",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "Free footbaths dotted along the lakefront — warm-up between fireworks and dinner. Pin is 薬師如来の手・足湯; OSM maps 6 more 手湯 along the strip between 140.815 and 140.826.",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8154863,
+          42.5639397
+        ]
+      },
+      "properties": {
+        "id": "toyako-onsen-volcano-science-museum",
+        "name": "Lake Tōya Volcano Science Museum & Visitor Center",
+        "name_ja": "洞爺湖ビジターセンター・火山科学館",
+        "category": "Unique / rare",
+        "city": "Toyako Onsen",
+        "cost": "Museum ¥800 (¥720 group 15+); Visitor Center free",
+        "access": "By the onsen street, 洞爺湖温泉; closed Mondays, winter 10:00–16:00",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "Feb 10 only (Mon-closed)",
+        "notes": "2000-eruption wrecked truck + rail, 13-min 3-screen theatre; indoor winter substitute for the snow-closed 西山 crater walk. Museum and Visitor Center share the building (45 m apart in OSM).",
+        "added": "2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8186471,
+          42.5662938
+        ]
+      },
+      "properties": {
+        "id": "toyako-onsen-sculpture-path",
+        "name": "Lakeside Sculpture Path",
+        "name_ja": "洞爺湖畔彫刻公園",
+        "category": "Unique / rare",
+        "city": "Toyako Onsen",
+        "cost": "Free",
+        "access": "Lakeshore promenade off the onsen strip, 洞爺湖温泉",
+        "booking": "Walk-in",
+        "stars": 0,
+        "dates": "",
+        "notes": "58 open-air sculptures ringing the shore; snowy lakefront dusk/after-fireworks stroll. Pin is 「湖渡る風」 on the onsen lakefront — the path continues around the whole lake.",
         "added": "2026-08-20"
       }
     },
