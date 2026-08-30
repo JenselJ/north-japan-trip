@@ -56,6 +56,9 @@
   .pop-notes { margin-top:8px; padding-top:7px; border-top:1px solid var(--border);
     font-size:12.5px; color:var(--muted); }
   .star { color:#f5a623; }
+  .pop-link { margin-top:8px; padding-top:7px; border-top:1px solid var(--border); }
+  .pop-link a { font-size:12.5px; font-weight:600; color:#1a73e8; text-decoration:none; }
+  .pop-link a:hover { text-decoration:underline; }
 
   /* Phone: stack controls, shrink chrome, keep the map usable one-handed */
   @media (max-width: 620px) {
@@ -123,7 +126,17 @@ function markerFor(feature, latlng) {
   });
 }
 
-function popupFor(p) {
+// Google Maps deep link, built from the feature's own verified coordinates rather
+// than a stored URL or a name search. A name search resolves to whichever branch
+// Google likes (the Ponshukan/Nagao/Lucky Pierrot trap); lat,lon cannot drift from
+// the pin and needs no extra property in locations.geojson.
+function gmapsUrl(coords) {
+  if (!coords || coords.length < 2) return "";
+  return "https://www.google.com/maps/search/?api=1&query=" +
+         encodeURIComponent(coords[1] + "," + coords[0]);
+}
+
+function popupFor(p, coords) {
   var star = Number(p.stars) === 1 ? ' <span class="star" title="Must-do">&#9733;</span>' : "";
   var html = '<div class="pop-name">' + esc(p.name) + star + "</div>";
   if (p.name_ja) html += '<div class="pop-ja">' + esc(p.name_ja) + "</div>";
@@ -136,6 +149,10 @@ function popupFor(p) {
   });
 
   if (p.notes) html += '<div class="pop-notes">' + esc(p.notes) + "</div>";
+
+  var gm = gmapsUrl(coords);
+  if (gm) html += '<div class="pop-link"><a href="' + esc(gm) +
+                  '" target="_blank" rel="noopener noreferrer">Open in Google Maps &#8599;</a></div>';
   return html;
 }
 
@@ -154,7 +171,7 @@ fetch("locations.geojson", { cache: "no-store" })
     L.geoJSON(data, {
       pointToLayer: markerFor,
       onEachFeature: function (f, layer) {
-        layer.bindPopup(popupFor(f.properties || {}), { maxWidth: 300 });
+        layer.bindPopup(popupFor(f.properties || {}, (f.geometry || {}).coordinates), { maxWidth: 300 });
         var cat = (f.properties || {}).category;
         (layers[cat] || other).addLayer(layer);
         all.push(layer);
