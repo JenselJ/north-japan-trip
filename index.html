@@ -126,14 +126,26 @@ function markerFor(feature, latlng) {
   });
 }
 
-// Google Maps deep link, built from the feature's own verified coordinates rather
-// than a stored URL or a name search. A name search resolves to whichever branch
-// Google likes (the Ponshukan/Nagao/Lucky Pierrot trap); lat,lon cannot drift from
-// the pin and needs no extra property in locations.geojson.
-function gmapsUrl(coords) {
+// Google Maps link to the venue's LISTING, not just a dropped pin.
+//
+// Searches the Japanese name (what Google indexes these under) but anchors the
+// search at our verified coordinates via the /@lat,lon,zoom form. The anchor is
+// what stops a name search resolving to the wrong branch — the Nagao/Lucky
+// Pierrot/Ponshukan trap this dataset is full of. A unique name at those coords
+// opens the place card; if Google can't match it, it falls back to showing that
+// exact spot, so the link degrades to the old behaviour rather than breaking.
+//
+// Tabelog was evaluated and rejected: its ?sk= keyword search returns generic
+// and promoted listings (a Toyako query came back with Sapporo restaurants),
+// and per-venue URLs need restaurant IDs there is no free API for.
+function gmapsUrl(p, coords) {
   if (!coords || coords.length < 2) return "";
-  return "https://www.google.com/maps/search/?api=1&query=" +
-         encodeURIComponent(coords[1] + "," + coords[0]);
+  var q = p.name_ja || p.name || "";
+  var at = "/@" + coords[1] + "," + coords[0] + ",17z";
+  return q
+    ? "https://www.google.com/maps/search/" + encodeURIComponent(q) + at
+    : "https://www.google.com/maps/search/?api=1&query=" +
+      encodeURIComponent(coords[1] + "," + coords[0]);
 }
 
 function popupFor(p, coords) {
@@ -150,7 +162,7 @@ function popupFor(p, coords) {
 
   if (p.notes) html += '<div class="pop-notes">' + esc(p.notes) + "</div>";
 
-  var gm = gmapsUrl(coords);
+  var gm = gmapsUrl(p, coords);
   if (gm) html += '<div class="pop-link"><a href="' + esc(gm) +
                   '" target="_blank" rel="noopener noreferrer">Open in Google Maps &#8599;</a></div>';
   return html;
