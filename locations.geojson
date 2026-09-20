@@ -3174,6 +3174,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          140.3951661,
+          38.1616492
+        ]
+      },
+      "properties": {
+        "id": "yamagata-zao-ropeway",
+        "name": "Zaō Ropeway (snow monsters)",
+        "name_ja": "蔵王ロープウェイ（樹氷）",
+        "category": "Unique / rare",
+        "city": "Yamagata",
+        "cost": "Round-trip ¥4,400 to 地蔵山頂駅 (the juhyō field); ¥2,200 only reaches 樹氷高原駅 mid-station",
+        "access": "山麓駅, 山形市蔵王温泉229-3, above Zaō Onsen village; ~40 min by van SE of Yamagata city",
+        "booking": "Walk-in, no reservation; go early — queues build and it suspends in high wind",
+        "stars": 1,
+        "dates": "Peak juhyō late Jan–Feb, so the trip window is right. Base line 8:30–17:00, summit line 8:45–16:45; last ascent to the summit 16:00",
+        "notes": "Aomori-todomatsu firs frozen into \"snow monsters\" (樹氷). Two-stage ride: 山麓 → 樹氷高原 → 地蔵山頂. The monsters are at the SUMMIT — the cheaper ¥2,200 ticket stops at the mid-station and does not reach them. Pin = 山麓 (base) station; the summit station is 3.5 km ESE. Sightseeing, not skiing. DOES NOT pair with Zaō Fox Village: that is on the Miyagi side and the 蔵王エコーライン linking them shuts all winter (last season Nov 4 – Apr 24), so the two are a long detour apart via Sendai. Night 樹氷ライトアップ runs some evenings but the operator had not published travel-year dates when this was added — call 023-694-9518. Same city as Yamadera.",
+        "added": "2026-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           140.679842,
           41.9853735
         ]
